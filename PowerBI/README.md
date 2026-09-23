@@ -52,7 +52,7 @@ The dashboard provides a visual overview of:
 
 📁 Files
 
-* `OTT_Customer_Analysis.pbix`
+* `OTT Customer Analysis.pbix`
 * `PowerBI_Dashboard.png`
 
 > The dataset used for this dashboard is available in the `Dataset` folder.
