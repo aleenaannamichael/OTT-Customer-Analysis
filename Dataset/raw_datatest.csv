@@ -1,0 +1,1001 @@
+﻿CustomerID,Platform,Age,AgeGroup,Gender,Location,AccountAge_Months,SignupDate,PreferredLanguage,SubscriptionType
+CUST00001,JioHotstar,36,35-44,Male,Kolkata,17,2022-07-19,Telugu,Basic
+CUST00002,JioHotstar,26,25-34,Female,Chennai,31,2021-05-27,Bengali,Premium
+CUST00003,Amazon Prime,27,25-34,Male,Mumbai,50,2019-10-30,Malayalam,Standard
+CUST00004,Amazon Prime,26,25-34,Male,Chennai,60,2019-01-23,English,Standard
+CUST00005,Netflix,20,18-24,Male,Jaipur,15,2022-09-09,Marathi,Premium
+CUST00006,Netflix,28,25-34,Male,Ahmedabad,10,2023-02-13,Bengali,Basic
+CUST00007,Netflix,32,25-34,Male,Delhi,11,2023-01-23,Tamil,Premium
+CUST00008,JioHotstar,18,18-24,Female,Kolkata,53,2019-08-11,Marathi,Basic
+CUST00009,SonyLiv,27,25-34,Female,Chennai,11,2023-01-23,Marathi,Premium
+CUST00010,SonyLiv,36,35-44,Male,Chennai,39,2020-09-27,English,Basic
+CUST00011,JioHotstar,23,18-24,Female,Jaipur,52,2019-09-08,Telugu,Premium
+CUST00012,Netflix,46,45-54,Male,Delhi,49,2019-12-14,Hindi,Basic
+CUST00013,JioHotstar,26,25-34,Male,Ahmedabad,56,2019-05-24,Kannada,Basic
+CUST00014,Netflix,37,35-44,Male,Jaipur,31,2021-05-28,Tamil,Standard
+CUST00015,Netflix,27,25-34,Male,Chennai,12,2022-12-27,Kannada,Standard
+CUST00016,JioHotstar,18,18-24,Female,Ahmedabad,11,2023-01-19,Telugu,Basic
+CUST00017,Netflix,46,45-54,Female,Bangalore,5,2023-07-15,English,Premium
+CUST00018,Amazon Prime,24,18-24,Male,Hyderabad,17,2022-08-01,Bengali,Standard
+CUST00019,Amazon Prime,32,25-34,Male,Hyderabad,5,2023-07-15,Telugu,Standard
+CUST00020,JioHotstar,36,35-44,Female,Bangalore,19,2022-06-09,English,Premium
+CUST00021,Netflix,30,25-34,Female,Kolkata,4,2023-09-03,Hindi,Standard
+CUST00022,ZEE5,33,25-34,Female,Hyderabad,40,2020-08-27,Gujarati,Basic
+CUST00023,SonyLiv,39,35-44,Female,Pune,43,2020-06-09,Tamil,Family
+CUST00024,SonyLiv,35,35-44,Female,Chennai,19,2022-06-04,Tamil,Premium
+CUST00025,Netflix,26,25-34,Female,Pune,23,2022-01-29,Bengali,Premium
+CUST00026,Netflix,29,25-34,Female,Kolkata,3,2023-09-15,English,Standard
+CUST00027,Amazon Prime,47,45-54,Female,Chennai,25,2021-11-17,Kannada,Basic
+CUST00028,JioHotstar,26,25-34,Female,Chennai,29,2021-07-24,Kannada,Premium
+CUST00029,Amazon Prime,28,25-34,Male,Chennai,35,2021-01-20,Malayalam,Premium
+CUST00030,JioHotstar,28,25-34,Male,Chennai,11,2023-02-04,Hindi,Basic
+CUST00031,Netflix,35,35-44,Female,Mumbai,52,2019-09-17,English,Premium
+CUST00032,ZEE5,20,18-24,Female,Ahmedabad,42,2020-06-26,Gujarati,Standard
+CUST00033,Amazon Prime,36,35-44,Male,Ahmedabad,6,2023-06-27,Bengali,Basic
+CUST00034,JioHotstar,25,25-34,Male,Chennai,57,2019-04-02,Kannada,Standard
+CUST00035,SonyLiv,52,45-54,Female,Pune,37,2020-11-25,Gujarati,Premium
+CUST00036,ZEE5,42,35-44,Female,Pune,41,2020-08-07,Hindi,Basic
+CUST00037,SonyLiv,22,18-24,Female,Kolkata,57,2019-03-29,English,Standard
+CUST00038,Netflix,22,18-24,Male,Bangalore,33,2021-04-07,English,Standard
+CUST00039,ZEE5,25,25-34,Female,Pune,28,2021-09-11,Telugu,Basic
+CUST00040,Netflix,24,18-24,Female,Hyderabad,5,2023-07-14,Gujarati,Standard
+CUST00041,ZEE5,35,35-44,Male,Jaipur,53,2019-07-30,Malayalam,Standard
+CUST00042,JioHotstar,18,18-24,Male,Mumbai,34,2021-02-23,Marathi,Basic
+CUST00043,Netflix,33,25-34,Male,Jaipur,52,2019-09-02,Telugu,Premium
+CUST00044,JioHotstar,22,18-24,Male,Jaipur,23,2022-01-24,Marathi,Premium
+CUST00045,JioHotstar,21,18-24,Male,Lucknow,52,2019-08-29,Gujarati,Standard
+CUST00046,Amazon Prime,40,35-44,Female,Ahmedabad,8,2023-05-06,Hindi,Standard
+CUST00047,JioHotstar,20,18-24,Male,Lucknow,21,2022-03-20,English,Family
+CUST00048,Amazon Prime,45,45-54,Female,Mumbai,42,2020-07-02,English,Family
+CUST00049,Amazon Prime,30,25-34,Male,Kolkata,49,2019-12-16,Bengali,Premium
+CUST00050,ZEE5,21,18-24,Female,Delhi,5,2023-08-02,Tamil,Premium
+CUST00051,Amazon Prime,18,18-24,Male,Mumbai,30,2021-07-01,Marathi,Standard
+CUST00052,Netflix,37,35-44,Female,Ahmedabad,36,2021-01-04,Malayalam,Family
+CUST00053,Netflix,35,35-44,Male,Ahmedabad,20,2022-04-21,Kannada,Premium
+CUST00054,Amazon Prime,39,35-44,Male,Jaipur,25,2021-11-22,Malayalam,Standard
+CUST00055,Netflix,35,35-44,Male,Jaipur,1,2023-11-04,Gujarati,Standard
+CUST00056,Netflix,25,25-34,Female,Ahmedabad,17,2022-07-21,Malayalam,Standard
+CUST00057,SonyLiv,32,25-34,Male,Mumbai,20,2022-05-02,Bengali,Premium
+CUST00058,Amazon Prime,23,18-24,Male,Chennai,40,2020-09-17,Kannada,Basic
+CUST00059,Netflix,21,18-24,Female,Bangalore,35,2021-02-07,Marathi,Premium
+CUST00060,SonyLiv,18,18-24,Male,Lucknow,48,2020-01-14,Kannada,Standard
+CUST00061,ZEE5,27,25-34,Non-Binary,Delhi,30,2021-06-27,English,Premium
+CUST00062,Netflix,26,25-34,Female,Lucknow,47,2020-02-05,Tamil,Basic
+CUST00063,JioHotstar,25,25-34,Female,Ahmedabad,20,2022-04-22,Gujarati,Basic
+CUST00064,SonyLiv,38,35-44,Male,Pune,40,2020-09-17,Marathi,Standard
+CUST00065,ZEE5,43,35-44,Female,Kolkata,53,2019-07-28,Telugu,Standard
+CUST00066,Amazon Prime,44,35-44,Male,Lucknow,25,2021-11-15,Tamil,Basic
+CUST00067,Netflix,31,25-34,Female,Ahmedabad,56,2019-05-26,Bengali,Premium
+CUST00068,Netflix,31,25-34,Female,Ahmedabad,26,2021-11-08,Bengali,Standard
+CUST00069,JioHotstar,30,25-34,Male,Kolkata,45,2020-04-12,Kannada,Basic
+CUST00070,JioHotstar,25,25-34,Female,Pune,41,2020-08-17,Tamil,Premium
+CUST00071,Amazon Prime,51,45-54,Non-Binary,Hyderabad,38,2020-11-12,Marathi,Basic
+CUST00072,Netflix,21,18-24,Male,Lucknow,15,2022-10-08,English,Premium
+CUST00073,Netflix,42,35-44,Male,Mumbai,9,2023-03-08,Hindi,Standard
+CUST00074,SonyLiv,29,25-34,Female,Delhi,31,2021-05-21,Gujarati,Basic
+CUST00075,JioHotstar,31,25-34,Male,Ahmedabad,6,2023-07-05,English,Standard
+CUST00076,JioHotstar,38,35-44,Male,Delhi,59,2019-02-20,Gujarati,Premium
+CUST00077,ZEE5,38,35-44,Female,Ahmedabad,5,2023-07-18,English,Premium
+CUST00078,Amazon Prime,37,35-44,Female,Pune,60,2019-01-20,Hindi,Family
+CUST00079,Netflix,29,25-34,Male,Chennai,56,2019-05-24,Kannada,Premium
+CUST00080,ZEE5,33,25-34,Male,Bangalore,60,2019-01-16,Tamil,Standard
+CUST00081,Amazon Prime,41,35-44,Male,Lucknow,41,2020-07-29,English,Premium
+CUST00082,SonyLiv,30,25-34,Male,Pune,8,2023-04-19,Bengali,Premium
+CUST00083,Netflix,30,25-34,Male,Hyderabad,9,2023-04-01,Hindi,Standard
+CUST00084,Netflix,19,18-24,Female,Hyderabad,40,2020-09-09,Kannada,Standard
+CUST00085,Amazon Prime,37,35-44,Male,Pune,41,2020-08-13,Kannada,Standard
+CUST00086,SonyLiv,49,45-54,Male,Bangalore,17,2022-08-06,English,Basic
+CUST00087,JioHotstar,18,18-24,Female,Lucknow,23,2022-02-09,Marathi,Basic
+CUST00088,Amazon Prime,37,35-44,Female,Delhi,42,2020-06-21,Gujarati,Standard
+CUST00089,Netflix,27,25-34,Male,Delhi,56,2019-05-17,Marathi,Family
+CUST00090,Amazon Prime,47,45-54,Male,Hyderabad,47,2020-02-11,Hindi,Premium
+CUST00091,Netflix,20,18-24,Male,Pune,9,2023-03-13,English,Standard
+CUST00092,Netflix,27,25-34,Male,Chennai,24,2022-01-02,Malayalam,Basic
+CUST00093,Amazon Prime,18,18-24,Female,Bangalore,41,2020-07-27,Kannada,Basic
+CUST00094,Amazon Prime,31,25-34,Male,Ahmedabad,16,2022-08-10,Gujarati,Basic
+CUST00095,Amazon Prime,18,18-24,Female,Bangalore,56,2019-05-05,Telugu,Premium
+CUST00096,Netflix,18,18-24,Male,Jaipur,11,2023-02-04,Kannada,Basic
+CUST00097,Amazon Prime,37,35-44,Male,Delhi,58,2019-03-20,Marathi,Premium
+CUST00098,Netflix,32,25-34,Female,Jaipur,50,2019-11-04,Gujarati,Standard
+CUST00099,JioHotstar,18,18-24,Male,Jaipur,40,2020-09-11,Telugu,Premium
+CUST00100,JioHotstar,29,25-34,Female,Jaipur,38,2020-10-24,Hindi,Standard
+CUST00101,SonyLiv,18,18-24,Female,Hyderabad,10,2023-03-04,Hindi,Standard
+CUST00102,Amazon Prime,43,35-44,Male,Mumbai,55,2019-06-26,Telugu,Premium
+CUST00103,SonyLiv,34,25-34,Female,Hyderabad,19,2022-05-22,English,Premium
+CUST00104,Amazon Prime,51,45-54,Female,Pune,6,2023-06-24,Kannada,Standard
+CUST00105,Amazon Prime,30,25-34,Male,Hyderabad,42,2020-06-21,Kannada,Basic
+CUST00106,SonyLiv,26,25-34,Male,Delhi,17,2022-08-06,Marathi,Standard
+CUST00107,Amazon Prime,26,25-34,Female,Chennai,8,2023-04-14,Hindi,Premium
+CUST00108,ZEE5,30,25-34,Male,Bangalore,59,2019-02-20,English,Standard
+CUST00109,Amazon Prime,28,25-34,Male,Bangalore,49,2019-12-06,Tamil,Premium
+CUST00110,ZEE5,47,45-54,Male,Delhi,5,2023-07-21,Bengali,Standard
+CUST00111,JioHotstar,35,35-44,Male,Jaipur,44,2020-05-01,Tamil,Premium
+CUST00112,Amazon Prime,42,35-44,Female,Kolkata,58,2019-03-06,English,Basic
+CUST00113,Netflix,33,25-34,Female,Lucknow,24,2022-01-10,Hindi,Premium
+CUST00114,JioHotstar,29,25-34,Male,Kolkata,33,2021-03-18,Telugu,Premium
+CUST00115,SonyLiv,40,35-44,Male,Hyderabad,28,2021-09-07,Tamil,Premium
+CUST00116,JioHotstar,18,18-24,Male,Bangalore,56,2019-05-11,Marathi,Family
+CUST00117,Amazon Prime,33,25-34,Male,Lucknow,25,2021-12-10,Hindi,Basic
+CUST00118,SonyLiv,24,18-24,Male,Pune,4,2023-08-20,Gujarati,Basic
+CUST00119,Amazon Prime,33,25-34,Female,Hyderabad,39,2020-10-16,Marathi,Premium
+CUST00120,ZEE5,18,18-24,Male,Lucknow,22,2022-02-18,Tamil,Standard
+CUST00121,Amazon Prime,29,25-34,Female,Pune,40,2020-08-24,Bengali,Premium
+CUST00122,Netflix,33,25-34,Female,Lucknow,53,2019-07-30,Kannada,Basic
+CUST00123,Amazon Prime,38,35-44,Female,Ahmedabad,60,2019-01-10,Hindi,Premium
+CUST00124,JioHotstar,33,25-34,Female,Kolkata,42,2020-07-01,Malayalam,Basic
+CUST00125,Amazon Prime,28,25-34,Female,Kolkata,20,2022-04-22,English,Standard
+CUST00126,Amazon Prime,53,45-54,Male,Kolkata,52,2019-09-24,Malayalam,Basic
+CUST00127,Netflix,46,45-54,Male,Delhi,29,2021-08-08,Marathi,Premium
+CUST00128,JioHotstar,32,25-34,Female,Kolkata,22,2022-02-13,Bengali,Standard
+CUST00129,Netflix,30,25-34,Female,Pune,54,2019-07-03,Malayalam,Basic
+CUST00130,ZEE5,29,25-34,Female,Ahmedabad,10,2023-03-03,Gujarati,Standard
+CUST00131,JioHotstar,24,18-24,Male,Lucknow,59,2019-02-13,Kannada,Premium
+CUST00132,Amazon Prime,30,25-34,Male,Hyderabad,21,2022-03-24,Hindi,Basic
+CUST00133,JioHotstar,36,35-44,Female,Kolkata,26,2021-11-10,Telugu,Basic
+CUST00134,SonyLiv,52,45-54,Female,Lucknow,60,2019-01-09,English,Standard
+CUST00135,SonyLiv,23,18-24,Male,Chennai,49,2019-11-25,Malayalam,Basic
+CUST00136,Netflix,32,25-34,Male,Mumbai,51,2019-09-27,Telugu,Standard
+CUST00137,Netflix,40,35-44,Male,Pune,26,2021-10-27,Kannada,Standard
+CUST00138,JioHotstar,40,35-44,Female,Chennai,57,2019-03-29,Hindi,Premium
+CUST00139,ZEE5,18,18-24,Female,Delhi,3,2023-09-28,Kannada,Standard
+CUST00140,JioHotstar,41,35-44,Male,Chennai,37,2020-11-22,Telugu,Premium
+CUST00141,Amazon Prime,38,35-44,Male,Bangalore,46,2020-03-20,Gujarati,Basic
+CUST00142,JioHotstar,30,25-34,Male,Jaipur,22,2022-02-18,Kannada,Standard
+CUST00143,ZEE5,32,25-34,Female,Bangalore,27,2021-09-28,Telugu,Basic
+CUST00144,Netflix,28,25-34,Male,Lucknow,50,2019-11-10,Gujarati,Basic
+CUST00145,Amazon Prime,26,25-34,Male,Lucknow,49,2019-12-22,Telugu,Standard
+CUST00146,Netflix,26,25-34,Non-Binary,Ahmedabad,52,2019-08-26,Marathi,Family
+CUST00147,Amazon Prime,30,25-34,Male,Chennai,26,2021-10-16,Telugu,Standard
+CUST00148,Netflix,18,18-24,Female,Bangalore,38,2020-11-17,Hindi,Standard
+CUST00149,Netflix,44,35-44,Female,Hyderabad,5,2023-08-01,Malayalam,Premium
+CUST00150,JioHotstar,36,35-44,Female,Bangalore,8,2023-04-27,English,Standard
+CUST00151,ZEE5,39,35-44,Male,Delhi,45,2020-04-03,Hindi,Basic
+CUST00152,ZEE5,36,35-44,Non-Binary,Jaipur,3,2023-09-06,Telugu,Basic
+CUST00153,ZEE5,27,25-34,Male,Chennai,41,2020-08-17,Tamil,Premium
+CUST00154,JioHotstar,48,45-54,Female,Delhi,35,2021-02-10,Marathi,Basic
+CUST00155,SonyLiv,39,35-44,Male,Chennai,25,2021-12-04,Gujarati,Family
+CUST00156,JioHotstar,55,55+,Female,Pune,22,2022-02-22,Marathi,Basic
+CUST00157,Netflix,18,18-24,Male,Jaipur,7,2023-05-26,Marathi,Premium
+CUST00158,Netflix,35,35-44,Male,Ahmedabad,10,2023-02-07,English,Basic
+CUST00159,ZEE5,36,35-44,Male,Lucknow,26,2021-10-15,Marathi,Standard
+CUST00160,ZEE5,18,18-24,Female,Kolkata,51,2019-10-19,Malayalam,Family
+CUST00161,Netflix,41,35-44,Female,Chennai,30,2021-06-18,Bengali,Premium
+CUST00162,SonyLiv,22,18-24,Male,Lucknow,33,2021-03-26,Kannada,Standard
+CUST00163,Netflix,33,25-34,Female,Bangalore,45,2020-04-16,Hindi,Standard
+CUST00164,Amazon Prime,26,25-34,Female,Lucknow,16,2022-09-06,Malayalam,Standard
+CUST00165,Netflix,25,25-34,Female,Bangalore,24,2021-12-19,Bengali,Standard
+CUST00166,Netflix,29,25-34,Female,Delhi,47,2020-02-15,Tamil,Family
+CUST00167,Amazon Prime,28,25-34,Male,Lucknow,14,2022-10-24,Malayalam,Standard
+CUST00168,Amazon Prime,23,18-24,Male,Delhi,18,2022-06-13,Malayalam,Standard
+CUST00169,Amazon Prime,33,25-34,Female,Delhi,46,2020-02-25,Tamil,Standard
+CUST00170,JioHotstar,39,35-44,Female,Bangalore,38,2020-10-22,Tamil,Standard
+CUST00171,JioHotstar,25,25-34,Female,Pune,47,2020-01-30,Malayalam,Standard
+CUST00172,SonyLiv,52,45-54,Female,Ahmedabad,38,2020-11-02,Gujarati,Basic
+CUST00173,Amazon Prime,18,18-24,Female,Chennai,21,2022-04-02,Hindi,Standard
+CUST00174,SonyLiv,31,25-34,Female,Pune,12,2022-12-28,Tamil,Premium
+CUST00175,Netflix,47,45-54,Female,Delhi,10,2023-02-28,Kannada,Family
+CUST00176,Amazon Prime,40,35-44,Female,Kolkata,43,2020-05-26,Kannada,Standard
+CUST00177,SonyLiv,19,18-24,Female,Delhi,50,2019-10-28,Malayalam,Standard
+CUST00178,JioHotstar,26,25-34,Male,Ahmedabad,54,2019-07-02,Marathi,Premium
+CUST00179,Netflix,33,25-34,Female,Bangalore,45,2020-04-10,Bengali,Basic
+CUST00180,SonyLiv,31,25-34,Male,Delhi,49,2019-12-22,English,Basic
+CUST00181,Netflix,23,18-24,Male,Pune,7,2023-06-03,English,Basic
+CUST00182,Netflix,34,25-34,Male,Chennai,43,2020-05-25,Tamil,Family
+CUST00183,Amazon Prime,22,18-24,Male,Kolkata,45,2020-04-21,English,Basic
+CUST00184,JioHotstar,39,35-44,Female,Chennai,34,2021-02-22,Kannada,Basic
+CUST00185,Amazon Prime,37,35-44,Female,Ahmedabad,53,2019-08-08,English,Basic
+CUST00186,Amazon Prime,19,18-24,Male,Jaipur,37,2020-11-26,Tamil,Basic
+CUST00187,JioHotstar,42,35-44,Male,Pune,50,2019-10-30,Telugu,Basic
+CUST00188,Netflix,33,25-34,Female,Jaipur,36,2021-01-07,Bengali,Basic
+CUST00189,Netflix,40,35-44,Non-Binary,Delhi,34,2021-02-19,Malayalam,Standard
+CUST00190,Netflix,33,25-34,Female,Mumbai,17,2022-07-20,Hindi,Standard
+CUST00191,Amazon Prime,36,35-44,Female,Lucknow,26,2021-10-30,English,Standard
+CUST00192,Amazon Prime,29,25-34,Male,Ahmedabad,1,2023-11-16,Marathi,Basic
+CUST00193,JioHotstar,49,45-54,Female,Bangalore,1,2023-11-19,Kannada,Basic
+CUST00194,Netflix,28,25-34,Male,Mumbai,10,2023-02-14,Bengali,Basic
+CUST00195,Amazon Prime,18,18-24,Female,Mumbai,30,2021-06-25,Tamil,Basic
+CUST00196,Netflix,36,35-44,Female,Delhi,11,2023-01-18,English,Basic
+CUST00197,SonyLiv,39,35-44,Male,Lucknow,3,2023-09-11,Telugu,Premium
+CUST00198,Amazon Prime,41,35-44,Male,Jaipur,18,2022-07-09,English,Standard
+CUST00199,ZEE5,36,35-44,Male,Lucknow,18,2022-06-20,English,Basic
+CUST00200,Amazon Prime,21,18-24,Female,Ahmedabad,3,2023-10-03,Kannada,Premium
+CUST00201,Amazon Prime,37,35-44,Female,Ahmedabad,5,2023-07-31,English,Basic
+CUST00202,Amazon Prime,32,25-34,Female,Ahmedabad,24,2021-12-28,Gujarati,Standard
+CUST00203,SonyLiv,36,35-44,Non-Binary,Bangalore,7,2023-05-11,Telugu,Premium
+CUST00204,ZEE5,40,35-44,Non-Binary,Bangalore,13,2022-12-07,Telugu,Standard
+CUST00205,ZEE5,34,25-34,Female,Ahmedabad,38,2020-11-17,Bengali,Basic
+CUST00206,JioHotstar,32,25-34,Female,Hyderabad,5,2023-08-03,Hindi,Basic
+CUST00207,Netflix,24,18-24,Male,Bangalore,11,2023-01-14,Kannada,Premium
+CUST00208,Netflix,24,18-24,Male,Kolkata,9,2023-03-17,Tamil,Premium
+CUST00209,JioHotstar,36,35-44,Female,Delhi,34,2021-02-19,Tamil,Standard
+CUST00210,Netflix,23,18-24,Male,Delhi,50,2019-11-18,Hindi,Basic
+CUST00211,SonyLiv,52,45-54,Female,Chennai,12,2023-01-03,Malayalam,Basic
+CUST00212,ZEE5,41,35-44,Male,Lucknow,33,2021-03-19,Hindi,Standard
+CUST00213,JioHotstar,31,25-34,Female,Kolkata,17,2022-08-03,English,Basic
+CUST00214,Netflix,33,25-34,Male,Kolkata,6,2023-06-18,Malayalam,Premium
+CUST00215,Netflix,48,45-54,Male,Ahmedabad,32,2021-04-24,Bengali,Basic
+CUST00216,Netflix,21,18-24,Male,Pune,56,2019-05-01,Gujarati,Standard
+CUST00217,Amazon Prime,43,35-44,Female,Lucknow,11,2023-02-04,English,Family
+CUST00218,ZEE5,47,45-54,Female,Lucknow,18,2022-06-22,Marathi,Family
+CUST00219,JioHotstar,52,45-54,Female,Delhi,29,2021-08-06,Tamil,Basic
+CUST00220,SonyLiv,26,25-34,Male,Ahmedabad,40,2020-09-17,Malayalam,Basic
+CUST00221,Netflix,30,25-34,Male,Hyderabad,56,2019-05-03,Bengali,Standard
+CUST00222,Netflix,33,25-34,Male,Delhi,13,2022-11-13,Malayalam,Basic
+CUST00223,Amazon Prime,18,18-24,Female,Jaipur,39,2020-09-24,Hindi,Basic
+CUST00224,Amazon Prime,43,35-44,Female,Delhi,47,2020-02-06,Hindi,Basic
+CUST00225,JioHotstar,29,25-34,Male,Pune,4,2023-08-23,Tamil,Premium
+CUST00226,JioHotstar,41,35-44,Male,Bangalore,45,2020-04-16,Tamil,Standard
+CUST00227,Netflix,42,35-44,Male,Jaipur,57,2019-04-19,Kannada,Standard
+CUST00228,ZEE5,22,18-24,Female,Kolkata,18,2022-06-16,Bengali,Basic
+CUST00229,JioHotstar,43,35-44,Non-Binary,Kolkata,29,2021-07-28,Kannada,Standard
+CUST00230,ZEE5,34,25-34,Male,Kolkata,58,2019-03-07,Tamil,Premium
+CUST00231,Amazon Prime,18,18-24,Male,Hyderabad,16,2022-09-01,Bengali,Standard
+CUST00232,Netflix,25,25-34,Female,Jaipur,9,2023-04-01,Kannada,Standard
+CUST00233,SonyLiv,40,35-44,Male,Delhi,34,2021-03-09,Marathi,Standard
+CUST00234,SonyLiv,26,25-34,Male,Pune,44,2020-05-14,Kannada,Standard
+CUST00235,Netflix,35,35-44,Male,Chennai,16,2022-08-26,Marathi,Standard
+CUST00236,Amazon Prime,18,18-24,Female,Bangalore,24,2021-12-31,Malayalam,Standard
+CUST00237,Netflix,41,35-44,Female,Mumbai,26,2021-10-25,Bengali,Premium
+CUST00238,JioHotstar,23,18-24,Male,Bangalore,15,2022-10-08,Hindi,Standard
+CUST00239,SonyLiv,38,35-44,Male,Lucknow,14,2022-10-19,Bengali,Premium
+CUST00240,Netflix,25,25-34,Male,Delhi,58,2019-03-28,Malayalam,Basic
+CUST00241,SonyLiv,34,25-34,Female,Kolkata,25,2021-11-25,Marathi,Standard
+CUST00242,Netflix,21,18-24,Female,Hyderabad,56,2019-05-08,Marathi,Basic
+CUST00243,JioHotstar,46,45-54,Male,Bangalore,8,2023-05-04,Kannada,Family
+CUST00244,ZEE5,34,25-34,Male,Ahmedabad,8,2023-04-15,Kannada,Standard
+CUST00245,SonyLiv,27,25-34,Female,Lucknow,7,2023-05-21,Kannada,Premium
+CUST00246,Amazon Prime,35,35-44,Male,Ahmedabad,60,2019-01-17,Tamil,Basic
+CUST00247,SonyLiv,18,18-24,Male,Ahmedabad,31,2021-05-31,Marathi,Basic
+CUST00248,JioHotstar,22,18-24,Female,Jaipur,15,2022-10-05,Malayalam,Family
+CUST00249,Amazon Prime,52,45-54,Male,Chennai,1,2023-11-28,Marathi,Standard
+CUST00250,Amazon Prime,28,25-34,Male,Chennai,13,2022-11-13,English,Family
+CUST00251,Netflix,44,35-44,Female,Ahmedabad,45,2020-03-24,Gujarati,Basic
+CUST00252,JioHotstar,32,25-34,Male,Bangalore,8,2023-05-04,Kannada,Premium
+CUST00253,Amazon Prime,36,35-44,Male,Pune,42,2020-07-17,Gujarati,Basic
+CUST00254,ZEE5,29,25-34,Male,Bangalore,35,2021-02-04,Gujarati,Premium
+CUST00255,SonyLiv,31,25-34,Male,Mumbai,36,2020-12-27,English,Basic
+CUST00256,Netflix,39,35-44,Female,Hyderabad,56,2019-05-10,Malayalam,Basic
+CUST00257,JioHotstar,35,35-44,Male,Pune,27,2021-09-30,Kannada,Family
+CUST00258,Netflix,22,18-24,Female,Hyderabad,52,2019-09-08,Gujarati,Premium
+CUST00259,Amazon Prime,44,35-44,Male,Jaipur,19,2022-06-09,Tamil,Basic
+CUST00260,SonyLiv,34,25-34,Male,Lucknow,38,2020-11-01,Marathi,Basic
+CUST00261,Netflix,35,35-44,Male,Hyderabad,23,2022-01-23,Marathi,Basic
+CUST00262,JioHotstar,32,25-34,Female,Chennai,3,2023-09-12,Marathi,Standard
+CUST00263,Amazon Prime,30,25-34,Male,Chennai,22,2022-02-14,Gujarati,Basic
+CUST00264,Amazon Prime,27,25-34,Male,Jaipur,57,2019-04-10,Kannada,Standard
+CUST00265,Netflix,36,35-44,Female,Kolkata,28,2021-08-20,Kannada,Standard
+CUST00266,Amazon Prime,22,18-24,Female,Kolkata,54,2019-07-05,Bengali,Standard
+CUST00267,SonyLiv,22,18-24,Female,Bangalore,21,2022-04-01,Marathi,Family
+CUST00268,ZEE5,37,35-44,Male,Pune,45,2020-04-19,Gujarati,Basic
+CUST00269,ZEE5,34,25-34,Male,Jaipur,5,2023-07-06,Bengali,Premium
+CUST00270,Amazon Prime,37,35-44,Male,Lucknow,46,2020-03-22,Bengali,Premium
+CUST00271,Amazon Prime,18,18-24,Female,Bangalore,47,2020-02-10,Marathi,Premium
+CUST00272,ZEE5,33,25-34,Male,Delhi,50,2019-11-04,English,Premium
+CUST00273,ZEE5,36,35-44,Male,Bangalore,25,2021-11-13,Kannada,Basic
+CUST00274,ZEE5,26,25-34,Non-Binary,Bangalore,52,2019-09-04,Gujarati,Basic
+CUST00275,Netflix,19,18-24,Male,Chennai,3,2023-09-06,Telugu,Standard
+CUST00276,Netflix,38,35-44,Female,Lucknow,38,2020-11-13,Tamil,Standard
+CUST00277,Amazon Prime,18,18-24,Male,Lucknow,1,2023-11-19,Gujarati,Premium
+CUST00278,Netflix,22,18-24,Female,Delhi,33,2021-03-21,Malayalam,Standard
+CUST00279,Netflix,19,18-24,Male,Bangalore,36,2021-01-08,Kannada,Standard
+CUST00280,Amazon Prime,31,25-34,Male,Pune,42,2020-07-20,Tamil,Premium
+CUST00281,Amazon Prime,21,18-24,Male,Mumbai,14,2022-10-14,Gujarati,Premium
+CUST00282,SonyLiv,28,25-34,Male,Bangalore,42,2020-07-15,Gujarati,Premium
+CUST00283,Amazon Prime,38,35-44,Female,Hyderabad,41,2020-08-13,English,Standard
+CUST00284,SonyLiv,20,18-24,Female,Delhi,36,2021-01-02,Hindi,Standard
+CUST00285,Amazon Prime,38,35-44,Male,Pune,52,2019-09-08,Telugu,Standard
+CUST00286,Netflix,33,25-34,Female,Delhi,52,2019-09-23,Telugu,Standard
+CUST00287,JioHotstar,36,35-44,Female,Bangalore,33,2021-04-11,Kannada,Basic
+CUST00288,JioHotstar,37,35-44,Female,Bangalore,44,2020-04-30,Malayalam,Standard
+CUST00289,JioHotstar,29,25-34,Male,Mumbai,11,2023-01-14,English,Family
+CUST00290,JioHotstar,46,45-54,Female,Hyderabad,56,2019-05-07,Bengali,Basic
+CUST00291,ZEE5,29,25-34,Female,Kolkata,60,2019-01-03,Gujarati,Premium
+CUST00292,JioHotstar,18,18-24,Male,Delhi,18,2022-06-22,English,Standard
+CUST00293,Netflix,43,35-44,Male,Hyderabad,6,2023-06-30,Gujarati,Family
+CUST00294,SonyLiv,19,18-24,Male,Chennai,57,2019-03-29,Telugu,Premium
+CUST00295,Netflix,40,35-44,Male,Lucknow,22,2022-02-25,Malayalam,Premium
+CUST00296,Netflix,24,18-24,Female,Ahmedabad,37,2020-11-20,Hindi,Standard
+CUST00297,Amazon Prime,18,18-24,Male,Hyderabad,42,2020-06-26,Bengali,Basic
+CUST00298,SonyLiv,35,35-44,Male,Bangalore,40,2020-09-18,Tamil,Family
+CUST00299,Amazon Prime,39,35-44,Male,Pune,35,2021-02-12,Tamil,Family
+CUST00300,Netflix,28,25-34,Male,Delhi,31,2021-05-25,Marathi,Basic
+CUST00301,JioHotstar,36,35-44,Male,Kolkata,25,2021-12-05,Marathi,Premium
+CUST00302,Amazon Prime,42,35-44,Female,Pune,58,2019-02-28,English,Basic
+CUST00303,Amazon Prime,31,25-34,Female,Ahmedabad,29,2021-08-07,Tamil,Basic
+CUST00304,Amazon Prime,41,35-44,Male,Pune,36,2020-12-24,English,Basic
+CUST00305,Netflix,46,45-54,Male,Hyderabad,59,2019-02-04,Marathi,Premium
+CUST00306,JioHotstar,22,18-24,Female,Jaipur,44,2020-05-01,Gujarati,Standard
+CUST00307,SonyLiv,29,25-34,Male,Kolkata,33,2021-04-16,Gujarati,Basic
+CUST00308,Netflix,19,18-24,Female,Pune,27,2021-09-15,Telugu,Basic
+CUST00309,JioHotstar,24,18-24,Male,Jaipur,56,2019-05-21,Bengali,Standard
+CUST00310,Netflix,18,18-24,Female,Mumbai,13,2022-11-17,English,Basic
+CUST00311,ZEE5,41,35-44,Male,Mumbai,23,2022-01-25,English,Premium
+CUST00312,Netflix,30,25-34,Non-Binary,Chennai,27,2021-10-05,Malayalam,Basic
+CUST00313,Amazon Prime,29,25-34,Female,Mumbai,51,2019-09-29,Gujarati,Standard
+CUST00314,Netflix,37,35-44,Female,Lucknow,9,2023-04-01,Kannada,Premium
+CUST00315,JioHotstar,42,35-44,Male,Mumbai,5,2023-08-02,Marathi,Standard
+CUST00316,Amazon Prime,35,35-44,Male,Mumbai,34,2021-03-14,Malayalam,Standard
+CUST00317,JioHotstar,40,35-44,Male,Bangalore,31,2021-05-26,Bengali,Premium
+CUST00318,Amazon Prime,33,25-34,Male,Jaipur,56,2019-04-30,Kannada,Basic
+CUST00319,Netflix,33,25-34,Female,Chennai,8,2023-04-27,Malayalam,Basic
+CUST00320,Netflix,30,25-34,Female,Chennai,45,2020-03-30,Malayalam,Family
+CUST00321,Amazon Prime,30,25-34,Female,Kolkata,6,2023-06-26,Telugu,Family
+CUST00322,JioHotstar,43,35-44,Female,Lucknow,25,2021-11-29,Malayalam,Premium
+CUST00323,ZEE5,33,25-34,Female,Hyderabad,58,2019-03-08,Marathi,Standard
+CUST00324,ZEE5,47,45-54,Male,Pune,1,2023-12-02,Hindi,Family
+CUST00325,ZEE5,45,45-54,Female,Jaipur,35,2021-01-19,Gujarati,Standard
+CUST00326,JioHotstar,38,35-44,Female,Chennai,51,2019-10-21,English,Premium
+CUST00327,JioHotstar,20,18-24,Male,Mumbai,53,2019-08-07,Marathi,Standard
+CUST00328,Netflix,30,25-34,Female,Hyderabad,37,2020-11-22,Tamil,Standard
+CUST00329,SonyLiv,18,18-24,Male,Hyderabad,6,2023-06-16,Malayalam,Standard
+CUST00330,Amazon Prime,38,35-44,Female,Jaipur,43,2020-06-19,Gujarati,Basic
+CUST00331,JioHotstar,45,45-54,Male,Kolkata,12,2022-12-21,Marathi,Standard
+CUST00332,Netflix,20,18-24,Female,Chennai,43,2020-06-09,Tamil,Premium
+CUST00333,SonyLiv,36,35-44,Female,Lucknow,50,2019-10-30,Tamil,Premium
+CUST00334,Netflix,27,25-34,Female,Mumbai,5,2023-07-19,Kannada,Premium
+CUST00335,Netflix,28,25-34,Male,Lucknow,37,2020-12-09,English,Basic
+CUST00336,Netflix,35,35-44,Female,Hyderabad,43,2020-05-31,Bengali,Basic
+CUST00337,Amazon Prime,29,25-34,Male,Pune,36,2020-12-31,Telugu,Standard
+CUST00338,SonyLiv,32,25-34,Female,Kolkata,48,2020-01-22,Gujarati,Family
+CUST00339,Netflix,31,25-34,Male,Bangalore,50,2019-11-04,Hindi,Premium
+CUST00340,Netflix,33,25-34,Non-Binary,Lucknow,19,2022-06-04,Telugu,Standard
+CUST00341,Amazon Prime,37,35-44,Male,Bangalore,14,2022-11-02,Telugu,Basic
+CUST00342,ZEE5,30,25-34,Female,Ahmedabad,47,2020-01-24,Marathi,Premium
+CUST00343,JioHotstar,21,18-24,Female,Mumbai,36,2020-12-31,English,Standard
+CUST00344,Netflix,37,35-44,Male,Pune,21,2022-03-19,Bengali,Standard
+CUST00345,ZEE5,35,35-44,Female,Pune,29,2021-08-08,Marathi,Standard
+CUST00346,Netflix,18,18-24,Female,Delhi,8,2023-04-13,Malayalam,Standard
+CUST00347,ZEE5,36,35-44,Female,Bangalore,12,2023-01-04,Tamil,Basic
+CUST00348,JioHotstar,34,25-34,Male,Ahmedabad,34,2021-02-16,Malayalam,Standard
+CUST00349,Netflix,36,35-44,Female,Chennai,4,2023-08-24,Tamil,Basic
+CUST00350,ZEE5,34,25-34,Male,Kolkata,42,2020-06-29,Gujarati,Basic
+CUST00351,SonyLiv,18,18-24,Male,Ahmedabad,10,2023-03-02,English,Premium
+CUST00352,Netflix,38,35-44,Female,Lucknow,54,2019-07-02,Bengali,Standard
+CUST00353,Amazon Prime,33,25-34,Male,Lucknow,16,2022-08-13,Bengali,Family
+CUST00354,JioHotstar,37,35-44,Female,Mumbai,44,2020-04-30,Telugu,Premium
+CUST00355,JioHotstar,31,25-34,Male,Bangalore,14,2022-10-31,Marathi,Premium
+CUST00356,Amazon Prime,24,18-24,Female,Pune,51,2019-10-04,Hindi,Premium
+CUST00357,ZEE5,25,25-34,Male,Mumbai,24,2022-01-07,Kannada,Standard
+CUST00358,Amazon Prime,36,35-44,Male,Ahmedabad,57,2019-04-09,Bengali,Basic
+CUST00359,Netflix,22,18-24,Male,Ahmedabad,51,2019-10-24,Gujarati,Standard
+CUST00360,SonyLiv,23,18-24,Male,Kolkata,4,2023-09-03,English,Standard
+CUST00361,Amazon Prime,28,25-34,Female,Ahmedabad,46,2020-02-27,English,Basic
+CUST00362,JioHotstar,34,25-34,Male,Chennai,12,2022-12-17,English,Standard
+CUST00363,Netflix,38,35-44,Female,Lucknow,43,2020-05-22,Malayalam,Standard
+CUST00364,JioHotstar,25,25-34,Male,Kolkata,47,2020-01-31,Malayalam,Standard
+CUST00365,ZEE5,39,35-44,Male,Mumbai,5,2023-07-22,Malayalam,Basic
+CUST00366,Amazon Prime,33,25-34,Female,Kolkata,37,2020-12-06,Malayalam,Standard
+CUST00367,ZEE5,18,18-24,Female,Hyderabad,38,2020-11-12,Telugu,Basic
+CUST00368,Netflix,34,25-34,Female,Delhi,41,2020-07-25,English,Premium
+CUST00369,JioHotstar,37,35-44,Male,Bangalore,46,2020-03-19,Tamil,Standard
+CUST00370,ZEE5,28,25-34,Male,Hyderabad,7,2023-06-03,Hindi,Standard
+CUST00371,Netflix,22,18-24,Male,Mumbai,17,2022-08-08,Kannada,Premium
+CUST00372,ZEE5,45,45-54,Female,Bangalore,20,2022-04-21,Tamil,Basic
+CUST00373,Amazon Prime,35,35-44,Female,Lucknow,30,2021-07-14,Tamil,Standard
+CUST00374,Amazon Prime,36,35-44,Female,Hyderabad,3,2023-09-25,Hindi,Standard
+CUST00375,Amazon Prime,39,35-44,Male,Lucknow,7,2023-06-04,Telugu,Standard
+CUST00376,Netflix,18,18-24,Male,Ahmedabad,40,2020-09-13,Marathi,Standard
+CUST00377,Amazon Prime,37,35-44,Male,Mumbai,45,2020-03-28,Bengali,Premium
+CUST00378,Netflix,34,25-34,Female,Lucknow,12,2022-12-10,Tamil,Premium
+CUST00379,Netflix,33,25-34,Female,Bangalore,58,2019-03-23,Malayalam,Premium
+CUST00380,SonyLiv,44,35-44,Male,Bangalore,32,2021-04-26,Kannada,Standard
+CUST00381,Netflix,36,35-44,Female,Ahmedabad,27,2021-10-11,Marathi,Family
+CUST00382,Netflix,37,35-44,Female,Kolkata,45,2020-04-01,Kannada,Standard
+CUST00383,Netflix,47,45-54,Male,Jaipur,8,2023-05-04,Malayalam,Standard
+CUST00384,JioHotstar,29,25-34,Female,Delhi,6,2023-06-09,Tamil,Standard
+CUST00385,JioHotstar,18,18-24,Female,Kolkata,53,2019-08-10,Kannada,Premium
+CUST00386,Netflix,26,25-34,Male,Ahmedabad,14,2022-10-18,Kannada,Basic
+CUST00387,JioHotstar,24,18-24,Male,Ahmedabad,2,2023-10-25,Malayalam,Basic
+CUST00388,Amazon Prime,20,18-24,Male,Delhi,37,2020-11-21,Telugu,Basic
+CUST00389,JioHotstar,20,18-24,Male,Hyderabad,6,2023-06-21,Malayalam,Premium
+CUST00390,Amazon Prime,36,35-44,Male,Ahmedabad,51,2019-10-19,Telugu,Basic
+CUST00391,SonyLiv,38,35-44,Female,Mumbai,3,2023-09-18,Marathi,Basic
+CUST00392,JioHotstar,33,25-34,Male,Delhi,3,2023-09-18,Tamil,Standard
+CUST00393,SonyLiv,33,25-34,Male,Bangalore,58,2019-03-28,English,Premium
+CUST00394,Amazon Prime,34,25-34,Male,Lucknow,38,2020-11-10,Tamil,Standard
+CUST00395,JioHotstar,18,18-24,Male,Lucknow,3,2023-09-10,Tamil,Basic
+CUST00396,JioHotstar,49,45-54,Male,Ahmedabad,48,2020-01-15,Tamil,Basic
+CUST00397,Netflix,18,18-24,Female,Kolkata,24,2021-12-20,Kannada,Basic
+CUST00398,Netflix,21,18-24,Male,Delhi,55,2019-06-15,Tamil,Premium
+CUST00399,SonyLiv,45,45-54,Female,Mumbai,8,2023-05-03,Hindi,Family
+CUST00400,Amazon Prime,40,35-44,Female,Hyderabad,16,2022-08-23,English,Basic
+CUST00401,Amazon Prime,40,35-44,Male,Bangalore,32,2021-05-09,Telugu,Standard
+CUST00402,SonyLiv,47,45-54,Male,Kolkata,42,2020-07-14,Tamil,Premium
+CUST00403,Netflix,47,45-54,Male,Ahmedabad,20,2022-05-10,Hindi,Premium
+CUST00404,Amazon Prime,43,35-44,Male,Ahmedabad,51,2019-10-22,Gujarati,Basic
+CUST00405,Amazon Prime,25,25-34,Male,Hyderabad,21,2022-04-06,Telugu,Standard
+CUST00406,SonyLiv,26,25-34,Male,Hyderabad,43,2020-05-28,Malayalam,Premium
+CUST00407,JioHotstar,33,25-34,Female,Delhi,43,2020-06-10,Marathi,Premium
+CUST00408,JioHotstar,19,18-24,Female,Jaipur,49,2019-12-11,Telugu,Basic
+CUST00409,ZEE5,22,18-24,Female,Pune,19,2022-05-14,Hindi,Basic
+CUST00410,JioHotstar,28,25-34,Female,Delhi,13,2022-11-12,Malayalam,Basic
+CUST00411,Amazon Prime,44,35-44,Female,Kolkata,29,2021-08-01,Gujarati,Family
+CUST00412,JioHotstar,30,25-34,Male,Hyderabad,45,2020-03-30,Marathi,Standard
+CUST00413,ZEE5,30,25-34,Female,Mumbai,11,2023-02-02,Marathi,Basic
+CUST00414,Netflix,23,18-24,Male,Mumbai,22,2022-02-22,Tamil,Standard
+CUST00415,ZEE5,27,25-34,Male,Ahmedabad,53,2019-08-12,Tamil,Family
+CUST00416,ZEE5,27,25-34,Female,Bangalore,55,2019-06-09,Malayalam,Standard
+CUST00417,Netflix,51,45-54,Male,Chennai,40,2020-08-25,Gujarati,Basic
+CUST00418,JioHotstar,42,35-44,Female,Mumbai,46,2020-03-07,Marathi,Standard
+CUST00419,Amazon Prime,35,35-44,Non-Binary,Ahmedabad,20,2022-04-20,Tamil,Premium
+CUST00420,Amazon Prime,43,35-44,Male,Lucknow,52,2019-09-06,Kannada,Basic
+CUST00421,SonyLiv,33,25-34,Male,Lucknow,21,2022-03-20,Malayalam,Standard
+CUST00422,Netflix,49,45-54,Female,Chennai,2,2023-10-05,English,Premium
+CUST00423,JioHotstar,36,35-44,Male,Jaipur,51,2019-10-23,Hindi,Premium
+CUST00424,ZEE5,22,18-24,Male,Kolkata,37,2020-12-13,English,Standard
+CUST00425,JioHotstar,39,35-44,Female,Delhi,37,2020-12-03,Marathi,Premium
+CUST00426,Netflix,18,18-24,Female,Lucknow,48,2020-01-20,Gujarati,Premium
+CUST00427,Amazon Prime,29,25-34,Male,Ahmedabad,41,2020-07-27,Gujarati,Premium
+CUST00428,ZEE5,36,35-44,Male,Delhi,6,2023-06-26,Hindi,Premium
+CUST00429,Netflix,25,25-34,Male,Delhi,42,2020-07-18,Telugu,Standard
+CUST00430,Amazon Prime,53,45-54,Female,Chennai,35,2021-02-01,English,Basic
+CUST00431,ZEE5,59,55+,Female,Ahmedabad,26,2021-11-12,Tamil,Standard
+CUST00432,Amazon Prime,31,25-34,Female,Ahmedabad,53,2019-08-24,Marathi,Premium
+CUST00433,Netflix,28,25-34,Male,Pune,13,2022-11-11,English,Premium
+CUST00434,Netflix,38,35-44,Male,Lucknow,7,2023-05-08,Tamil,Basic
+CUST00435,JioHotstar,26,25-34,Male,Pune,25,2021-12-03,Malayalam,Premium
+CUST00436,Netflix,37,35-44,Male,Mumbai,57,2019-04-07,English,Standard
+CUST00437,SonyLiv,29,25-34,Female,Chennai,21,2022-04-10,Malayalam,Standard
+CUST00438,SonyLiv,31,25-34,Male,Mumbai,3,2023-09-26,Tamil,Standard
+CUST00439,JioHotstar,43,35-44,Female,Lucknow,33,2021-04-14,Malayalam,Standard
+CUST00440,JioHotstar,36,35-44,Male,Hyderabad,24,2021-12-18,Hindi,Premium
+CUST00441,JioHotstar,18,18-24,Female,Delhi,60,2019-01-18,Bengali,Basic
+CUST00442,JioHotstar,43,35-44,Non-Binary,Pune,39,2020-09-20,Kannada,Standard
+CUST00443,Netflix,24,18-24,Female,Delhi,58,2019-03-17,Gujarati,Basic
+CUST00444,Netflix,25,25-34,Female,Jaipur,33,2021-04-03,Kannada,Basic
+CUST00445,Amazon Prime,33,25-34,Female,Jaipur,13,2022-11-28,Hindi,Standard
+CUST00446,SonyLiv,49,45-54,Female,Lucknow,50,2019-11-05,Hindi,Standard
+CUST00447,JioHotstar,32,25-34,Female,Kolkata,57,2019-04-21,Bengali,Standard
+CUST00448,ZEE5,27,25-34,Male,Mumbai,14,2022-10-15,Tamil,Basic
+CUST00449,Netflix,23,18-24,Female,Delhi,28,2021-08-21,Marathi,Premium
+CUST00450,SonyLiv,18,18-24,Female,Jaipur,18,2022-07-05,Malayalam,Premium
+CUST00451,Netflix,26,25-34,Male,Chennai,19,2022-05-19,Malayalam,Standard
+CUST00452,SonyLiv,36,35-44,Female,Hyderabad,33,2021-04-03,Marathi,Premium
+CUST00453,JioHotstar,48,45-54,Male,Hyderabad,56,2019-05-14,English,Standard
+CUST00454,Amazon Prime,36,35-44,Female,Bangalore,30,2021-06-17,Marathi,Premium
+CUST00455,JioHotstar,40,35-44,Female,Delhi,57,2019-04-19,Tamil,Premium
+CUST00456,Netflix,30,25-34,Male,Bangalore,1,2023-11-26,Kannada,Basic
+CUST00457,Amazon Prime,38,35-44,Male,Bangalore,18,2022-06-17,Tamil,Premium
+CUST00458,ZEE5,29,25-34,Female,Lucknow,43,2020-05-28,Telugu,Family
+CUST00459,Netflix,28,25-34,Female,Mumbai,50,2019-11-22,Gujarati,Standard
+CUST00460,JioHotstar,32,25-34,Male,Pune,59,2019-02-13,Telugu,Standard
+CUST00461,Amazon Prime,36,35-44,Male,Lucknow,47,2020-01-31,Malayalam,Basic
+CUST00462,Netflix,29,25-34,Male,Hyderabad,17,2022-08-09,Malayalam,Family
+CUST00463,ZEE5,33,25-34,Female,Bangalore,39,2020-10-13,Hindi,Standard
+CUST00464,Amazon Prime,25,25-34,Non-Binary,Ahmedabad,60,2019-01-12,Bengali,Premium
+CUST00465,JioHotstar,24,18-24,Male,Bangalore,38,2020-10-20,Malayalam,Basic
+CUST00466,Amazon Prime,43,35-44,Non-Binary,Jaipur,34,2021-03-14,Malayalam,Standard
+CUST00467,JioHotstar,44,35-44,Female,Chennai,40,2020-08-24,Hindi,Standard
+CUST00468,Amazon Prime,31,25-34,Female,Delhi,58,2019-03-24,Marathi,Basic
+CUST00469,Amazon Prime,31,25-34,Female,Lucknow,9,2023-03-13,Telugu,Premium
+CUST00470,SonyLiv,28,25-34,Male,Chennai,12,2023-01-03,Kannada,Premium
+CUST00471,JioHotstar,44,35-44,Male,Delhi,57,2019-04-03,Marathi,Standard
+CUST00472,Amazon Prime,41,35-44,Male,Hyderabad,32,2021-04-27,Telugu,Standard
+CUST00473,Netflix,35,35-44,Male,Kolkata,58,2019-03-15,Telugu,Standard
+CUST00474,SonyLiv,28,25-34,Male,Lucknow,6,2023-06-18,Gujarati,Basic
+CUST00475,Amazon Prime,24,18-24,Female,Lucknow,56,2019-05-23,Bengali,Standard
+CUST00476,Netflix,28,25-34,Male,Bangalore,45,2020-03-29,Malayalam,Standard
+CUST00477,Amazon Prime,29,25-34,Male,Bangalore,10,2023-03-01,Hindi,Basic
+CUST00478,SonyLiv,18,18-24,Male,Kolkata,53,2019-08-09,Malayalam,Basic
+CUST00479,Netflix,32,25-34,Female,Pune,4,2023-08-20,Marathi,Basic
+CUST00480,Amazon Prime,41,35-44,Female,Ahmedabad,16,2022-08-15,Hindi,Standard
+CUST00481,Amazon Prime,28,25-34,Male,Bangalore,20,2022-04-22,Telugu,Standard
+CUST00482,ZEE5,40,35-44,Female,Hyderabad,55,2019-06-16,Malayalam,Premium
+CUST00483,SonyLiv,24,18-24,Female,Ahmedabad,21,2022-03-21,Telugu,Basic
+CUST00484,Netflix,18,18-24,Male,Kolkata,24,2022-01-05,Marathi,Premium
+CUST00485,Amazon Prime,26,25-34,Male,Delhi,8,2023-04-30,English,Premium
+CUST00486,Amazon Prime,30,25-34,Female,Bangalore,45,2020-04-16,Marathi,Standard
+CUST00487,Netflix,18,18-24,Male,Pune,25,2021-11-24,Telugu,Basic
+CUST00488,JioHotstar,26,25-34,Female,Ahmedabad,10,2023-02-07,Hindi,Premium
+CUST00489,JioHotstar,18,18-24,Female,Mumbai,44,2020-05-18,Gujarati,Family
+CUST00490,Amazon Prime,24,18-24,Female,Pune,31,2021-06-02,Telugu,Premium
+CUST00491,Amazon Prime,36,35-44,Female,Bangalore,36,2021-01-01,Gujarati,Basic
+CUST00492,SonyLiv,28,25-34,Male,Pune,35,2021-02-01,English,Premium
+CUST00493,Amazon Prime,22,18-24,Male,Lucknow,39,2020-09-30,Gujarati,Premium
+CUST00494,Amazon Prime,41,35-44,Female,Hyderabad,32,2021-05-16,English,Basic
+CUST00495,JioHotstar,44,35-44,Female,Pune,60,2019-01-12,Bengali,Standard
+CUST00496,JioHotstar,23,18-24,Male,Jaipur,59,2019-01-30,Gujarati,Basic
+CUST00497,Netflix,25,25-34,Male,Hyderabad,21,2022-03-18,Marathi,Standard
+CUST00498,Amazon Prime,36,35-44,Male,Hyderabad,5,2023-07-17,Hindi,Standard
+CUST00499,SonyLiv,18,18-24,Female,Bangalore,60,2019-01-23,Marathi,Basic
+CUST00500,JioHotstar,48,45-54,Female,Mumbai,40,2020-09-17,Bengali,Standard
+CUST00501,Amazon Prime,30,25-34,Male,Jaipur,13,2022-11-29,Hindi,Basic
+CUST00502,Netflix,27,25-34,Male,Pune,2,2023-10-14,Gujarati,Standard
+CUST00503,JioHotstar,18,18-24,Male,Hyderabad,13,2022-11-26,Hindi,Premium
+CUST00504,Netflix,35,35-44,Female,Jaipur,27,2021-10-05,English,Basic
+CUST00505,Netflix,33,25-34,Female,Bangalore,21,2022-03-19,Kannada,Standard
+CUST00506,ZEE5,38,35-44,Male,Mumbai,56,2019-05-13,Malayalam,Family
+CUST00507,Amazon Prime,36,35-44,Female,Lucknow,58,2019-03-17,Gujarati,Basic
+CUST00508,Netflix,29,25-34,Female,Hyderabad,47,2020-02-05,Marathi,Standard
+CUST00509,JioHotstar,29,25-34,Female,Mumbai,42,2020-07-04,Malayalam,Basic
+CUST00510,Netflix,20,18-24,Male,Ahmedabad,46,2020-02-25,English,Standard
+CUST00511,Netflix,25,25-34,Female,Kolkata,47,2020-02-08,Marathi,Basic
+CUST00512,JioHotstar,29,25-34,Male,Pune,8,2023-04-19,Bengali,Standard
+CUST00513,Netflix,18,18-24,Female,Chennai,36,2020-12-26,Bengali,Basic
+CUST00514,JioHotstar,27,25-34,Female,Hyderabad,30,2021-06-30,Kannada,Basic
+CUST00515,Amazon Prime,47,45-54,Male,Hyderabad,6,2023-06-18,Hindi,Family
+CUST00516,Amazon Prime,26,25-34,Female,Lucknow,55,2019-06-14,Marathi,Premium
+CUST00517,JioHotstar,21,18-24,Female,Ahmedabad,40,2020-09-03,English,Basic
+CUST00518,Amazon Prime,39,35-44,Male,Mumbai,39,2020-10-13,Hindi,Basic
+CUST00519,SonyLiv,20,18-24,Female,Hyderabad,45,2020-04-08,Hindi,Standard
+CUST00520,Amazon Prime,29,25-34,Male,Lucknow,31,2021-06-05,Tamil,Basic
+CUST00521,Netflix,22,18-24,Male,Hyderabad,20,2022-04-15,Marathi,Family
+CUST00522,ZEE5,33,25-34,Female,Hyderabad,13,2022-11-10,Malayalam,Premium
+CUST00523,ZEE5,36,35-44,Male,Mumbai,44,2020-05-03,Telugu,Premium
+CUST00524,Amazon Prime,34,25-34,Male,Mumbai,38,2020-10-22,English,Basic
+CUST00525,JioHotstar,20,18-24,Male,Jaipur,17,2022-07-17,Tamil,Basic
+CUST00526,Amazon Prime,48,45-54,Male,Bangalore,36,2020-12-18,Kannada,Premium
+CUST00527,JioHotstar,18,18-24,Female,Lucknow,41,2020-08-17,Telugu,Premium
+CUST00528,Netflix,36,35-44,Male,Ahmedabad,54,2019-06-27,English,Basic
+CUST00529,JioHotstar,19,18-24,Male,Kolkata,40,2020-08-29,Kannada,Standard
+CUST00530,JioHotstar,18,18-24,Female,Hyderabad,18,2022-06-29,Gujarati,Basic
+CUST00531,Amazon Prime,38,35-44,Female,Hyderabad,19,2022-05-22,Kannada,Basic
+CUST00532,ZEE5,39,35-44,Male,Delhi,25,2021-11-25,Hindi,Standard
+CUST00533,JioHotstar,18,18-24,Female,Kolkata,1,2023-11-15,Bengali,Basic
+CUST00534,Netflix,26,25-34,Male,Chennai,50,2019-11-12,Telugu,Standard
+CUST00535,JioHotstar,26,25-34,Male,Ahmedabad,59,2019-02-20,Gujarati,Basic
+CUST00536,Amazon Prime,30,25-34,Female,Jaipur,21,2022-03-29,Marathi,Standard
+CUST00537,SonyLiv,53,45-54,Non-Binary,Chennai,27,2021-09-23,English,Standard
+CUST00538,JioHotstar,26,25-34,Male,Chennai,5,2023-07-13,Kannada,Basic
+CUST00539,ZEE5,36,35-44,Male,Pune,33,2021-03-28,English,Standard
+CUST00540,Netflix,45,45-54,Female,Ahmedabad,19,2022-05-17,Telugu,Basic
+CUST00541,JioHotstar,28,25-34,Male,Ahmedabad,24,2021-12-22,Bengali,Standard
+CUST00542,Amazon Prime,41,35-44,Female,Chennai,60,2019-01-15,Tamil,Basic
+CUST00543,Netflix,46,45-54,Male,Delhi,35,2021-02-02,Marathi,Standard
+CUST00544,Amazon Prime,44,35-44,Male,Delhi,49,2019-12-11,Tamil,Standard
+CUST00545,Netflix,40,35-44,Male,Delhi,13,2022-12-05,Bengali,Basic
+CUST00546,JioHotstar,30,25-34,Male,Mumbai,58,2019-03-25,Gujarati,Standard
+CUST00547,ZEE5,41,35-44,Male,Mumbai,29,2021-07-22,Hindi,Family
+CUST00548,SonyLiv,24,18-24,Male,Chennai,43,2020-06-01,Telugu,Family
+CUST00549,Amazon Prime,47,45-54,Male,Kolkata,45,2020-04-10,Marathi,Basic
+CUST00550,Netflix,39,35-44,Male,Hyderabad,44,2020-05-19,Kannada,Premium
+CUST00551,ZEE5,31,25-34,Male,Jaipur,44,2020-04-30,Telugu,Standard
+CUST00552,Netflix,20,18-24,Male,Kolkata,14,2022-10-15,Tamil,Standard
+CUST00553,Netflix,43,35-44,Female,Pune,45,2020-04-14,Bengali,Premium
+CUST00554,SonyLiv,39,35-44,Female,Bangalore,31,2021-06-10,Hindi,Basic
+CUST00555,ZEE5,41,35-44,Male,Delhi,30,2021-07-13,Malayalam,Standard
+CUST00556,Amazon Prime,25,25-34,Female,Hyderabad,28,2021-09-08,Kannada,Basic
+CUST00557,SonyLiv,23,18-24,Female,Lucknow,37,2020-11-27,Tamil,Standard
+CUST00558,Netflix,49,45-54,Male,Mumbai,59,2019-02-02,Gujarati,Premium
+CUST00559,Amazon Prime,40,35-44,Male,Delhi,27,2021-10-05,Tamil,Basic
+CUST00560,Amazon Prime,18,18-24,Male,Ahmedabad,3,2023-09-23,Marathi,Standard
+CUST00561,SonyLiv,27,25-34,Male,Delhi,44,2020-04-22,Kannada,Standard
+CUST00562,JioHotstar,39,35-44,Male,Kolkata,51,2019-10-21,Kannada,Premium
+CUST00563,JioHotstar,24,18-24,Male,Bangalore,56,2019-05-06,Malayalam,Basic
+CUST00564,Amazon Prime,34,25-34,Female,Delhi,31,2021-05-24,Telugu,Basic
+CUST00565,JioHotstar,18,18-24,Male,Delhi,26,2021-10-20,English,Basic
+CUST00566,SonyLiv,38,35-44,Male,Chennai,36,2020-12-28,Hindi,Standard
+CUST00567,ZEE5,30,25-34,Female,Hyderabad,46,2020-03-10,Kannada,Standard
+CUST00568,JioHotstar,30,25-34,Female,Kolkata,48,2019-12-31,Telugu,Standard
+CUST00569,Amazon Prime,18,18-24,Male,Lucknow,34,2021-03-15,Kannada,Premium
+CUST00570,Netflix,29,25-34,Female,Lucknow,54,2019-07-09,Gujarati,Basic
+CUST00571,Netflix,38,35-44,Male,Delhi,8,2023-04-30,Kannada,Family
+CUST00572,JioHotstar,31,25-34,Female,Ahmedabad,7,2023-05-31,Marathi,Premium
+CUST00573,Amazon Prime,24,18-24,Male,Kolkata,8,2023-04-10,Bengali,Basic
+CUST00574,JioHotstar,24,18-24,Male,Lucknow,37,2020-12-01,Telugu,Premium
+CUST00575,Netflix,24,18-24,Female,Hyderabad,10,2023-02-09,Bengali,Premium
+CUST00576,Netflix,18,18-24,Non-Binary,Lucknow,33,2021-03-28,Telugu,Standard
+CUST00577,ZEE5,30,25-34,Female,Ahmedabad,50,2019-11-04,Kannada,Basic
+CUST00578,Amazon Prime,22,18-24,Female,Kolkata,20,2022-05-03,Telugu,Premium
+CUST00579,Netflix,31,25-34,Male,Ahmedabad,20,2022-04-15,Tamil,Basic
+CUST00580,ZEE5,40,35-44,Male,Bangalore,4,2023-08-09,English,Standard
+CUST00581,Netflix,34,25-34,Male,Ahmedabad,21,2022-03-23,Tamil,Premium
+CUST00582,Netflix,32,25-34,Male,Ahmedabad,44,2020-04-28,Gujarati,Basic
+CUST00583,Amazon Prime,23,18-24,Female,Delhi,23,2022-02-04,English,Premium
+CUST00584,SonyLiv,51,45-54,Female,Delhi,52,2019-09-11,Telugu,Family
+CUST00585,JioHotstar,23,18-24,Female,Mumbai,6,2023-06-12,English,Standard
+CUST00586,Amazon Prime,50,45-54,Female,Bangalore,40,2020-09-07,Malayalam,Premium
+CUST00587,SonyLiv,25,25-34,Male,Bangalore,42,2020-07-17,Gujarati,Basic
+CUST00588,ZEE5,18,18-24,Female,Bangalore,37,2020-11-30,Telugu,Basic
+CUST00589,Amazon Prime,18,18-24,Male,Lucknow,17,2022-07-14,English,Basic
+CUST00590,Netflix,27,25-34,Male,Chennai,26,2021-10-18,English,Premium
+CUST00591,JioHotstar,26,25-34,Female,Mumbai,12,2022-12-18,Marathi,Family
+CUST00592,Netflix,29,25-34,Female,Bangalore,45,2020-03-26,Tamil,Basic
+CUST00593,Amazon Prime,46,45-54,Male,Ahmedabad,35,2021-02-07,Bengali,Basic
+CUST00594,Netflix,27,25-34,Female,Delhi,12,2022-12-29,Hindi,Basic
+CUST00595,JioHotstar,30,25-34,Female,Jaipur,48,2020-01-03,English,Standard
+CUST00596,SonyLiv,25,25-34,Female,Jaipur,47,2020-02-01,Hindi,Standard
+CUST00597,Netflix,22,18-24,Male,Bangalore,26,2021-10-29,English,Standard
+CUST00598,JioHotstar,37,35-44,Male,Kolkata,44,2020-04-25,Gujarati,Premium
+CUST00599,Amazon Prime,35,35-44,Female,Pune,25,2021-12-06,Hindi,Basic
+CUST00600,Amazon Prime,24,18-24,Male,Hyderabad,30,2021-07-08,Tamil,Standard
+CUST00601,Netflix,33,25-34,Male,Bangalore,27,2021-09-15,Kannada,Premium
+CUST00602,JioHotstar,33,25-34,Male,Pune,35,2021-02-08,Kannada,Basic
+CUST00603,JioHotstar,41,35-44,Male,Ahmedabad,20,2022-04-19,Bengali,Standard
+CUST00604,Netflix,21,18-24,Female,Delhi,48,2019-12-28,Gujarati,Standard
+CUST00605,Amazon Prime,35,35-44,Female,Delhi,60,2019-01-27,Hindi,Standard
+CUST00606,Netflix,27,25-34,Male,Hyderabad,49,2019-12-06,Kannada,Basic
+CUST00607,ZEE5,18,18-24,Male,Kolkata,8,2023-04-18,English,Premium
+CUST00608,Netflix,18,18-24,Male,Delhi,9,2023-03-10,English,Basic
+CUST00609,JioHotstar,22,18-24,Non-Binary,Chennai,37,2020-12-05,Tamil,Basic
+CUST00610,JioHotstar,44,35-44,Female,Delhi,33,2021-03-19,Kannada,Standard
+CUST00611,JioHotstar,24,18-24,Female,Pune,34,2021-02-22,Gujarati,Premium
+CUST00612,JioHotstar,37,35-44,Male,Jaipur,32,2021-05-14,Gujarati,Premium
+CUST00613,JioHotstar,31,25-34,Female,Kolkata,10,2023-03-05,Bengali,Premium
+CUST00614,ZEE5,34,25-34,Female,Kolkata,50,2019-11-15,Tamil,Standard
+CUST00615,Netflix,28,25-34,Female,Lucknow,8,2023-04-29,Kannada,Family
+CUST00616,SonyLiv,28,25-34,Male,Chennai,50,2019-10-30,Kannada,Standard
+CUST00617,Amazon Prime,36,35-44,Male,Bangalore,56,2019-05-03,Kannada,Premium
+CUST00618,SonyLiv,32,25-34,Female,Pune,27,2021-10-07,Hindi,Basic
+CUST00619,ZEE5,31,25-34,Male,Hyderabad,59,2019-02-20,English,Basic
+CUST00620,JioHotstar,18,18-24,Male,Mumbai,8,2023-05-06,Gujarati,Basic
+CUST00621,ZEE5,31,25-34,Female,Delhi,34,2021-02-28,Tamil,Family
+CUST00622,JioHotstar,20,18-24,Male,Jaipur,23,2022-01-16,Tamil,Premium
+CUST00623,Netflix,39,35-44,Female,Delhi,54,2019-07-01,Hindi,Premium
+CUST00624,JioHotstar,28,25-34,Male,Hyderabad,9,2023-03-16,Tamil,Premium
+CUST00625,Amazon Prime,37,35-44,Female,Jaipur,37,2020-12-04,Malayalam,Standard
+CUST00626,Netflix,45,45-54,Female,Bangalore,8,2023-04-21,Hindi,Family
+CUST00627,Netflix,18,18-24,Male,Bangalore,26,2021-10-20,Hindi,Premium
+CUST00628,Netflix,35,35-44,Male,Lucknow,57,2019-04-05,Kannada,Basic
+CUST00629,Netflix,18,18-24,Male,Mumbai,44,2020-04-26,Hindi,Standard
+CUST00630,Amazon Prime,24,18-24,Female,Pune,11,2023-01-15,Bengali,Family
+CUST00631,JioHotstar,31,25-34,Male,Ahmedabad,33,2021-03-30,Marathi,Premium
+CUST00632,SonyLiv,40,35-44,Male,Kolkata,12,2023-01-03,Gujarati,Basic
+CUST00633,Netflix,32,25-34,Non-Binary,Ahmedabad,4,2023-08-31,Hindi,Standard
+CUST00634,Netflix,33,25-34,Female,Hyderabad,28,2021-08-20,Gujarati,Basic
+CUST00635,ZEE5,22,18-24,Male,Chennai,15,2022-09-17,Tamil,Premium
+CUST00636,JioHotstar,18,18-24,Female,Mumbai,49,2019-12-04,Kannada,Basic
+CUST00637,JioHotstar,42,35-44,Female,Delhi,35,2021-02-14,English,Standard
+CUST00638,Amazon Prime,18,18-24,Male,Ahmedabad,45,2020-04-10,Tamil,Family
+CUST00639,SonyLiv,54,45-54,Female,Hyderabad,6,2023-06-15,Kannada,Standard
+CUST00640,Netflix,23,18-24,Male,Lucknow,28,2021-09-06,English,Basic
+CUST00641,ZEE5,27,25-34,Male,Pune,14,2022-10-20,Kannada,Standard
+CUST00642,Netflix,29,25-34,Male,Lucknow,3,2023-09-29,Kannada,Basic
+CUST00643,JioHotstar,28,25-34,Male,Delhi,19,2022-05-21,Kannada,Basic
+CUST00644,Amazon Prime,40,35-44,Female,Bangalore,14,2022-10-22,Marathi,Family
+CUST00645,JioHotstar,43,35-44,Male,Lucknow,43,2020-06-18,Tamil,Standard
+CUST00646,Amazon Prime,33,25-34,Female,Pune,18,2022-06-12,Gujarati,Premium
+CUST00647,Amazon Prime,26,25-34,Female,Bangalore,42,2020-07-20,Kannada,Basic
+CUST00648,SonyLiv,53,45-54,Female,Ahmedabad,29,2021-08-07,Kannada,Standard
+CUST00649,JioHotstar,42,35-44,Male,Pune,44,2020-05-13,Bengali,Premium
+CUST00650,Amazon Prime,38,35-44,Female,Jaipur,7,2023-05-12,Malayalam,Standard
+CUST00651,Netflix,22,18-24,Female,Ahmedabad,29,2021-08-09,Kannada,Basic
+CUST00652,Netflix,34,25-34,Male,Hyderabad,58,2019-03-17,Gujarati,Premium
+CUST00653,SonyLiv,27,25-34,Female,Bangalore,44,2020-05-08,Kannada,Family
+CUST00654,SonyLiv,36,35-44,Female,Kolkata,58,2019-03-24,Gujarati,Basic
+CUST00655,Netflix,24,18-24,Male,Bangalore,31,2021-05-17,Marathi,Basic
+CUST00656,ZEE5,45,45-54,Female,Lucknow,60,2019-01-22,English,Basic
+CUST00657,Amazon Prime,40,35-44,Male,Mumbai,29,2021-08-07,English,Standard
+CUST00658,JioHotstar,46,45-54,Female,Mumbai,9,2023-04-06,Marathi,Family
+CUST00659,Netflix,25,25-34,Female,Delhi,15,2022-09-14,Hindi,Standard
+CUST00660,JioHotstar,30,25-34,Male,Jaipur,28,2021-09-04,Telugu,Basic
+CUST00661,Amazon Prime,32,25-34,Female,Pune,41,2020-07-29,Bengali,Premium
+CUST00662,Netflix,28,25-34,Male,Lucknow,57,2019-04-14,Gujarati,Standard
+CUST00663,Amazon Prime,39,35-44,Male,Mumbai,49,2019-11-25,Marathi,Basic
+CUST00664,JioHotstar,18,18-24,Female,Delhi,40,2020-09-13,Kannada,Premium
+CUST00665,Amazon Prime,28,25-34,Male,Lucknow,2,2023-10-20,Bengali,Basic
+CUST00666,Amazon Prime,33,25-34,Male,Ahmedabad,7,2023-05-22,Kannada,Premium
+CUST00667,Amazon Prime,33,25-34,Female,Delhi,58,2019-03-12,Marathi,Family
+CUST00668,SonyLiv,32,25-34,Female,Jaipur,1,2023-11-22,Hindi,Basic
+CUST00669,ZEE5,48,45-54,Female,Delhi,9,2023-03-19,Marathi,Premium
+CUST00670,Amazon Prime,28,25-34,Male,Ahmedabad,16,2022-08-27,English,Basic
+CUST00671,Netflix,20,18-24,Female,Ahmedabad,56,2019-05-01,Kannada,Basic
+CUST00672,Netflix,48,45-54,Male,Hyderabad,27,2021-10-04,Malayalam,Premium
+CUST00673,Amazon Prime,20,18-24,Male,Delhi,17,2022-07-28,Hindi,Premium
+CUST00674,Amazon Prime,25,25-34,Female,Mumbai,31,2021-06-12,Bengali,Standard
+CUST00675,Amazon Prime,24,18-24,Female,Chennai,8,2023-04-19,Telugu,Basic
+CUST00676,Netflix,25,25-34,Female,Kolkata,34,2021-02-21,Telugu,Basic
+CUST00677,Amazon Prime,18,18-24,Female,Chennai,12,2022-12-19,Marathi,Premium
+CUST00678,Netflix,51,45-54,Female,Mumbai,41,2020-08-03,Marathi,Family
+CUST00679,SonyLiv,28,25-34,Female,Delhi,21,2022-03-19,Marathi,Standard
+CUST00680,Amazon Prime,43,35-44,Female,Lucknow,34,2021-03-16,English,Basic
+CUST00681,JioHotstar,18,18-24,Male,Chennai,51,2019-09-30,English,Basic
+CUST00682,Amazon Prime,29,25-34,Male,Lucknow,29,2021-07-31,Bengali,Standard
+CUST00683,Netflix,22,18-24,Male,Bangalore,32,2021-04-21,Tamil,Standard
+CUST00684,JioHotstar,44,35-44,Male,Kolkata,1,2023-11-22,Kannada,Standard
+CUST00685,Netflix,18,18-24,Non-Binary,Chennai,30,2021-07-01,English,Basic
+CUST00686,Amazon Prime,21,18-24,Female,Hyderabad,55,2019-05-30,Tamil,Premium
+CUST00687,SonyLiv,25,25-34,Female,Delhi,10,2023-02-22,Gujarati,Standard
+CUST00688,Netflix,27,25-34,Female,Delhi,52,2019-09-07,Tamil,Standard
+CUST00689,Netflix,18,18-24,Female,Ahmedabad,56,2019-05-24,Gujarati,Standard
+CUST00690,SonyLiv,21,18-24,Male,Lucknow,47,2020-02-20,Gujarati,Premium
+CUST00691,JioHotstar,31,25-34,Female,Mumbai,55,2019-05-28,Malayalam,Standard
+CUST00692,Amazon Prime,32,25-34,Male,Delhi,21,2022-03-28,Kannada,Standard
+CUST00693,JioHotstar,18,18-24,Male,Chennai,12,2022-12-18,Gujarati,Premium
+CUST00694,SonyLiv,25,25-34,Male,Pune,11,2023-02-02,Hindi,Basic
+CUST00695,Netflix,47,45-54,Female,Ahmedabad,19,2022-05-14,Hindi,Family
+CUST00696,JioHotstar,18,18-24,Male,Bangalore,20,2022-05-11,Bengali,Family
+CUST00697,Amazon Prime,25,25-34,Male,Hyderabad,41,2020-08-14,Marathi,Standard
+CUST00698,Netflix,26,25-34,Female,Chennai,8,2023-05-01,Tamil,Premium
+CUST00699,JioHotstar,26,25-34,Female,Bangalore,22,2022-02-13,English,Premium
+CUST00700,Amazon Prime,19,18-24,Female,Chennai,6,2023-06-09,Hindi,Standard
+CUST00701,JioHotstar,18,18-24,Female,Jaipur,34,2021-02-19,Telugu,Premium
+CUST00702,SonyLiv,60,55+,Female,Bangalore,54,2019-07-14,Gujarati,Basic
+CUST00703,Netflix,41,35-44,Female,Kolkata,6,2023-07-02,Gujarati,Standard
+CUST00704,JioHotstar,35,35-44,Male,Pune,18,2022-06-16,Telugu,Standard
+CUST00705,ZEE5,25,25-34,Female,Mumbai,24,2021-12-24,English,Family
+CUST00706,Netflix,29,25-34,Male,Ahmedabad,21,2022-03-21,Telugu,Basic
+CUST00707,JioHotstar,36,35-44,Male,Pune,38,2020-11-02,Tamil,Basic
+CUST00708,SonyLiv,26,25-34,Female,Jaipur,39,2020-09-25,Hindi,Family
+CUST00709,ZEE5,29,25-34,Non-Binary,Bangalore,42,2020-07-09,Kannada,Standard
+CUST00710,Amazon Prime,29,25-34,Male,Jaipur,20,2022-04-12,Telugu,Standard
+CUST00711,SonyLiv,22,18-24,Female,Kolkata,51,2019-10-05,Gujarati,Basic
+CUST00712,Netflix,45,45-54,Female,Kolkata,57,2019-04-13,English,Basic
+CUST00713,Netflix,27,25-34,Male,Jaipur,53,2019-08-23,Marathi,Family
+CUST00714,JioHotstar,36,35-44,Female,Mumbai,56,2019-05-24,English,Standard
+CUST00715,Netflix,43,35-44,Male,Chennai,10,2023-03-07,Hindi,Basic
+CUST00716,JioHotstar,39,35-44,Female,Lucknow,1,2023-11-07,English,Standard
+CUST00717,SonyLiv,24,18-24,Male,Mumbai,40,2020-09-02,English,Basic
+CUST00718,Netflix,31,25-34,Female,Mumbai,16,2022-08-13,English,Premium
+CUST00719,Netflix,18,18-24,Female,Hyderabad,37,2020-11-21,Hindi,Standard
+CUST00720,Netflix,25,25-34,Male,Kolkata,10,2023-02-12,Hindi,Standard
+CUST00721,ZEE5,20,18-24,Male,Lucknow,15,2022-09-25,Marathi,Standard
+CUST00722,ZEE5,31,25-34,Male,Delhi,16,2022-08-30,Gujarati,Family
+CUST00723,Amazon Prime,47,45-54,Male,Lucknow,21,2022-04-11,Telugu,Standard
+CUST00724,Netflix,22,18-24,Female,Delhi,25,2021-11-21,Malayalam,Standard
+CUST00725,JioHotstar,23,18-24,Female,Kolkata,24,2022-01-02,Marathi,Basic
+CUST00726,Netflix,33,25-34,Female,Ahmedabad,51,2019-10-03,English,Basic
+CUST00727,Amazon Prime,33,25-34,Female,Kolkata,9,2023-04-03,Marathi,Premium
+CUST00728,JioHotstar,22,18-24,Male,Ahmedabad,48,2019-12-30,Tamil,Premium
+CUST00729,Amazon Prime,30,25-34,Male,Jaipur,50,2019-11-14,Bengali,Family
+CUST00730,Amazon Prime,36,35-44,Female,Bangalore,3,2023-09-08,Telugu,Standard
+CUST00731,Amazon Prime,47,45-54,Female,Lucknow,52,2019-09-11,English,Family
+CUST00732,JioHotstar,29,25-34,Male,Ahmedabad,57,2019-04-03,Hindi,Standard
+CUST00733,SonyLiv,32,25-34,Male,Pune,34,2021-02-25,Bengali,Basic
+CUST00734,Netflix,21,18-24,Female,Jaipur,46,2020-02-25,English,Premium
+CUST00735,JioHotstar,38,35-44,Female,Mumbai,17,2022-07-17,Tamil,Standard
+CUST00736,SonyLiv,31,25-34,Female,Chennai,1,2023-11-26,Kannada,Basic
+CUST00737,JioHotstar,23,18-24,Female,Kolkata,58,2019-03-17,Telugu,Premium
+CUST00738,SonyLiv,35,35-44,Male,Ahmedabad,23,2022-02-04,Telugu,Premium
+CUST00739,Amazon Prime,37,35-44,Male,Chennai,2,2023-10-04,Bengali,Basic
+CUST00740,Netflix,26,25-34,Male,Ahmedabad,50,2019-11-02,Telugu,Standard
+CUST00741,JioHotstar,44,35-44,Male,Jaipur,2,2023-10-23,Hindi,Premium
+CUST00742,Netflix,25,25-34,Female,Chennai,20,2022-04-17,Tamil,Family
+CUST00743,SonyLiv,32,25-34,Male,Kolkata,21,2022-03-25,Hindi,Basic
+CUST00744,Netflix,18,18-24,Male,Pune,2,2023-10-22,Hindi,Premium
+CUST00745,JioHotstar,45,45-54,Male,Ahmedabad,14,2022-10-13,English,Basic
+CUST00746,Amazon Prime,33,25-34,Male,Ahmedabad,50,2019-11-03,Kannada,Family
+CUST00747,Amazon Prime,44,35-44,Male,Delhi,7,2023-05-21,Gujarati,Basic
+CUST00748,Netflix,28,25-34,Male,Pune,22,2022-03-05,Marathi,Premium
+CUST00749,Amazon Prime,39,35-44,Female,Hyderabad,32,2021-05-02,Malayalam,Standard
+CUST00750,Netflix,39,35-44,Male,Delhi,3,2023-09-14,Kannada,Standard
+CUST00751,ZEE5,33,25-34,Female,Jaipur,23,2022-02-10,Marathi,Standard
+CUST00752,ZEE5,18,18-24,Female,Bangalore,12,2022-12-31,Gujarati,Premium
+CUST00753,JioHotstar,18,18-24,Male,Mumbai,43,2020-06-01,Malayalam,Standard
+CUST00754,JioHotstar,32,25-34,Male,Lucknow,53,2019-08-15,Kannada,Family
+CUST00755,JioHotstar,21,18-24,Female,Hyderabad,40,2020-09-10,Bengali,Family
+CUST00756,Netflix,37,35-44,Male,Mumbai,23,2022-02-08,English,Premium
+CUST00757,SonyLiv,37,35-44,Female,Hyderabad,22,2022-03-04,Gujarati,Standard
+CUST00758,Amazon Prime,27,25-34,Female,Delhi,39,2020-10-16,Kannada,Premium
+CUST00759,ZEE5,43,35-44,Male,Bangalore,52,2019-09-23,Hindi,Basic
+CUST00760,JioHotstar,38,35-44,Female,Pune,3,2023-09-04,Bengali,Basic
+CUST00761,SonyLiv,45,45-54,Female,Delhi,3,2023-09-15,Marathi,Basic
+CUST00762,JioHotstar,36,35-44,Male,Jaipur,19,2022-05-13,Telugu,Premium
+CUST00763,Amazon Prime,35,35-44,Female,Pune,29,2021-08-02,Hindi,Basic
+CUST00764,JioHotstar,18,18-24,Female,Mumbai,22,2022-03-05,Bengali,Standard
+CUST00765,Netflix,30,25-34,Female,Mumbai,53,2019-08-15,Tamil,Premium
+CUST00766,Amazon Prime,20,18-24,Male,Kolkata,10,2023-02-18,Marathi,Standard
+CUST00767,Amazon Prime,35,35-44,Female,Ahmedabad,57,2019-04-09,Tamil,Basic
+CUST00768,Amazon Prime,25,25-34,Female,Jaipur,57,2019-04-08,Bengali,Basic
+CUST00769,JioHotstar,18,18-24,Female,Mumbai,23,2022-02-10,English,Standard
+CUST00770,SonyLiv,34,25-34,Male,Lucknow,32,2021-05-12,Kannada,Premium
+CUST00771,SonyLiv,36,35-44,Female,Jaipur,8,2023-04-26,Kannada,Standard
+CUST00772,Netflix,39,35-44,Non-Binary,Bangalore,9,2023-03-11,Marathi,Premium
+CUST00773,Amazon Prime,26,25-34,Male,Chennai,59,2019-02-10,Telugu,Standard
+CUST00774,JioHotstar,19,18-24,Female,Pune,57,2019-04-05,Malayalam,Premium
+CUST00775,Amazon Prime,23,18-24,Male,Delhi,24,2021-12-22,Malayalam,Premium
+CUST00776,SonyLiv,29,25-34,Female,Chennai,10,2023-02-23,Malayalam,Basic
+CUST00777,Netflix,21,18-24,Female,Bangalore,12,2023-01-02,Kannada,Premium
+CUST00778,JioHotstar,36,35-44,Male,Ahmedabad,1,2023-11-09,Malayalam,Premium
+CUST00779,Amazon Prime,19,18-24,Male,Hyderabad,58,2019-03-10,Gujarati,Family
+CUST00780,JioHotstar,37,35-44,Male,Lucknow,50,2019-11-03,Malayalam,Standard
+CUST00781,SonyLiv,42,35-44,Female,Bangalore,21,2022-04-11,Marathi,Standard
+CUST00782,JioHotstar,19,18-24,Female,Pune,19,2022-05-19,Marathi,Family
+CUST00783,JioHotstar,46,45-54,Female,Delhi,27,2021-10-11,Gujarati,Family
+CUST00784,ZEE5,32,25-34,Female,Lucknow,18,2022-06-16,Bengali,Standard
+CUST00785,SonyLiv,33,25-34,Male,Mumbai,42,2020-07-12,Kannada,Family
+CUST00786,JioHotstar,48,45-54,Male,Chennai,2,2023-10-26,Marathi,Basic
+CUST00787,Netflix,21,18-24,Male,Hyderabad,57,2019-04-23,Malayalam,Basic
+CUST00788,JioHotstar,30,25-34,Female,Hyderabad,6,2023-06-15,Telugu,Premium
+CUST00789,Amazon Prime,30,25-34,Non-Binary,Mumbai,52,2019-09-16,Bengali,Standard
+CUST00790,JioHotstar,36,35-44,Male,Bangalore,53,2019-08-15,Kannada,Standard
+CUST00791,JioHotstar,21,18-24,Female,Jaipur,27,2021-09-20,Telugu,Premium
+CUST00792,SonyLiv,19,18-24,Female,Delhi,27,2021-10-08,Kannada,Family
+CUST00793,Amazon Prime,37,35-44,Male,Lucknow,43,2020-05-30,Malayalam,Premium
+CUST00794,Amazon Prime,20,18-24,Female,Bangalore,33,2021-04-09,Telugu,Standard
+CUST00795,Amazon Prime,30,25-34,Female,Lucknow,58,2019-03-23,Marathi,Premium
+CUST00796,Netflix,40,35-44,Male,Kolkata,49,2019-11-27,Gujarati,Basic
+CUST00797,SonyLiv,26,25-34,Male,Jaipur,43,2020-05-23,Malayalam,Standard
+CUST00798,Netflix,31,25-34,Male,Ahmedabad,15,2022-09-28,Bengali,Basic
+CUST00799,Netflix,38,35-44,Male,Mumbai,52,2019-08-26,Tamil,Basic
+CUST00800,JioHotstar,45,45-54,Male,Bangalore,11,2023-02-05,Bengali,Premium
+CUST00801,ZEE5,25,25-34,Male,Lucknow,12,2022-12-19,Marathi,Standard
+CUST00802,Amazon Prime,39,35-44,Female,Delhi,24,2021-12-31,Telugu,Standard
+CUST00803,Netflix,37,35-44,Female,Jaipur,16,2022-08-22,Telugu,Standard
+CUST00804,Amazon Prime,25,25-34,Female,Chennai,18,2022-06-26,Tamil,Premium
+CUST00805,JioHotstar,29,25-34,Female,Bangalore,36,2020-12-27,Bengali,Basic
+CUST00806,Netflix,36,35-44,Male,Jaipur,41,2020-08-12,Telugu,Standard
+CUST00807,JioHotstar,26,25-34,Male,Mumbai,18,2022-07-05,Kannada,Standard
+CUST00808,JioHotstar,35,35-44,Female,Ahmedabad,8,2023-04-18,Tamil,Standard
+CUST00809,Amazon Prime,26,25-34,Female,Bangalore,14,2022-11-01,English,Premium
+CUST00810,Amazon Prime,36,35-44,Male,Pune,54,2019-07-07,Tamil,Premium
+CUST00811,Amazon Prime,20,18-24,Female,Kolkata,26,2021-11-03,Tamil,Standard
+CUST00812,Amazon Prime,41,35-44,Female,Bangalore,32,2021-05-11,Bengali,Basic
+CUST00813,JioHotstar,44,35-44,Female,Lucknow,35,2021-02-05,Malayalam,Premium
+CUST00814,Amazon Prime,30,25-34,Female,Ahmedabad,18,2022-07-09,Bengali,Family
+CUST00815,JioHotstar,18,18-24,Male,Pune,57,2019-04-19,Tamil,Premium
+CUST00816,Amazon Prime,36,35-44,Male,Delhi,60,2019-01-14,Marathi,Family
+CUST00817,JioHotstar,41,35-44,Male,Mumbai,10,2023-02-18,English,Standard
+CUST00818,ZEE5,27,25-34,Female,Hyderabad,54,2019-06-28,Gujarati,Standard
+CUST00819,Netflix,22,18-24,Female,Lucknow,45,2020-04-10,Telugu,Premium
+CUST00820,Amazon Prime,28,25-34,Female,Pune,2,2023-10-20,Kannada,Standard
+CUST00821,JioHotstar,18,18-24,Female,Chennai,53,2019-08-09,Marathi,Premium
+CUST00822,SonyLiv,41,35-44,Female,Delhi,23,2022-01-31,Marathi,Family
+CUST00823,ZEE5,26,25-34,Male,Pune,2,2023-10-11,Malayalam,Premium
+CUST00824,Amazon Prime,43,35-44,Female,Jaipur,9,2023-03-28,Tamil,Premium
+CUST00825,Amazon Prime,32,25-34,Female,Ahmedabad,2,2023-10-30,Hindi,Standard
+CUST00826,ZEE5,38,35-44,Male,Pune,60,2019-01-04,Malayalam,Basic
+CUST00827,SonyLiv,45,45-54,Male,Chennai,60,2019-01-23,Bengali,Standard
+CUST00828,Netflix,27,25-34,Male,Pune,43,2020-05-31,Marathi,Family
+CUST00829,JioHotstar,25,25-34,Female,Jaipur,12,2022-12-20,Tamil,Basic
+CUST00830,Netflix,35,35-44,Female,Mumbai,22,2022-03-05,Malayalam,Standard
+CUST00831,Netflix,18,18-24,Male,Bangalore,55,2019-05-28,Tamil,Basic
+CUST00832,JioHotstar,45,45-54,Male,Lucknow,36,2021-01-02,Gujarati,Standard
+CUST00833,SonyLiv,33,25-34,Female,Chennai,13,2022-11-24,Hindi,Basic
+CUST00834,ZEE5,20,18-24,Male,Chennai,31,2021-05-18,Bengali,Standard
+CUST00835,JioHotstar,27,25-34,Female,Hyderabad,53,2019-08-22,Gujarati,Basic
+CUST00836,Netflix,29,25-34,Male,Ahmedabad,30,2021-06-22,Gujarati,Family
+CUST00837,Netflix,25,25-34,Female,Hyderabad,36,2020-12-21,Tamil,Standard
+CUST00838,JioHotstar,27,25-34,Female,Chennai,58,2019-03-12,Tamil,Standard
+CUST00839,ZEE5,41,35-44,Male,Bangalore,50,2019-11-16,Bengali,Basic
+CUST00840,SonyLiv,25,25-34,Female,Chennai,27,2021-09-22,Tamil,Standard
+CUST00841,JioHotstar,20,18-24,Female,Chennai,31,2021-06-07,Tamil,Premium
+CUST00842,JioHotstar,28,25-34,Male,Delhi,52,2019-09-10,Marathi,Premium
+CUST00843,SonyLiv,21,18-24,Female,Chennai,36,2020-12-27,English,Basic
+CUST00844,JioHotstar,28,25-34,Female,Kolkata,58,2019-03-13,Bengali,Family
+CUST00845,JioHotstar,31,25-34,Female,Delhi,54,2019-07-17,Malayalam,Standard
+CUST00846,Netflix,20,18-24,Male,Chennai,25,2021-11-24,Kannada,Premium
+CUST00847,JioHotstar,23,18-24,Male,Mumbai,15,2022-09-16,Tamil,Basic
+CUST00848,ZEE5,18,18-24,Male,Mumbai,23,2022-02-06,Malayalam,Premium
+CUST00849,Netflix,42,35-44,Male,Delhi,23,2022-01-18,Marathi,Standard
+CUST00850,Netflix,36,35-44,Male,Kolkata,59,2019-02-13,Malayalam,Standard
+CUST00851,JioHotstar,26,25-34,Male,Jaipur,37,2020-11-25,Tamil,Standard
+CUST00852,Amazon Prime,25,25-34,Male,Pune,8,2023-05-04,Bengali,Standard
+CUST00853,SonyLiv,39,35-44,Non-Binary,Chennai,60,2019-01-05,Telugu,Standard
+CUST00854,JioHotstar,19,18-24,Male,Jaipur,40,2020-08-30,Kannada,Standard
+CUST00855,Netflix,32,25-34,Female,Delhi,48,2020-01-13,Tamil,Standard
+CUST00856,SonyLiv,23,18-24,Male,Hyderabad,49,2019-11-24,Gujarati,Premium
+CUST00857,JioHotstar,34,25-34,Male,Hyderabad,33,2021-03-31,Tamil,Basic
+CUST00858,ZEE5,24,18-24,Non-Binary,Chennai,46,2020-03-17,Malayalam,Standard
+CUST00859,Amazon Prime,29,25-34,Male,Lucknow,4,2023-08-16,Marathi,Standard
+CUST00860,Netflix,23,18-24,Male,Ahmedabad,50,2019-11-01,English,Standard
+CUST00861,Netflix,34,25-34,Male,Pune,18,2022-07-04,Malayalam,Basic
+CUST00862,ZEE5,33,25-34,Male,Hyderabad,7,2023-05-21,Tamil,Basic
+CUST00863,Netflix,24,18-24,Female,Bangalore,37,2020-12-01,Telugu,Family
+CUST00864,Netflix,29,25-34,Female,Mumbai,43,2020-06-06,Hindi,Family
+CUST00865,ZEE5,31,25-34,Male,Lucknow,11,2023-01-19,Marathi,Family
+CUST00866,ZEE5,35,35-44,Male,Pune,3,2023-09-08,Marathi,Basic
+CUST00867,Amazon Prime,40,35-44,Female,Lucknow,48,2019-12-25,Gujarati,Standard
+CUST00868,Netflix,51,45-54,Male,Delhi,22,2022-02-12,Gujarati,Standard
+CUST00869,Amazon Prime,33,25-34,Female,Lucknow,38,2020-11-16,Tamil,Standard
+CUST00870,JioHotstar,30,25-34,Female,Bangalore,35,2021-01-25,Marathi,Premium
+CUST00871,JioHotstar,37,35-44,Male,Pune,15,2022-10-07,English,Family
+CUST00872,Netflix,43,35-44,Male,Chennai,43,2020-06-07,Bengali,Premium
+CUST00873,Amazon Prime,33,25-34,Female,Chennai,56,2019-05-05,Malayalam,Basic
+CUST00874,SonyLiv,37,35-44,Male,Jaipur,23,2022-01-31,Tamil,Family
+CUST00875,Amazon Prime,20,18-24,Female,Chennai,6,2023-06-08,Gujarati,Premium
+CUST00876,SonyLiv,18,18-24,Male,Lucknow,26,2021-11-03,Malayalam,Premium
+CUST00877,Netflix,27,25-34,Female,Kolkata,12,2022-12-08,Marathi,Standard
+CUST00878,Amazon Prime,18,18-24,Female,Delhi,58,2019-03-11,Telugu,Standard
+CUST00879,Netflix,33,25-34,Female,Hyderabad,3,2023-09-15,Tamil,Family
+CUST00880,JioHotstar,37,35-44,Male,Ahmedabad,40,2020-09-18,Kannada,Basic
+CUST00881,Amazon Prime,31,25-34,Female,Chennai,10,2023-02-10,Bengali,Standard
+CUST00882,SonyLiv,18,18-24,Female,Pune,9,2023-03-21,Marathi,Basic
+CUST00883,JioHotstar,36,35-44,Male,Chennai,49,2019-12-04,Telugu,Standard
+CUST00884,Amazon Prime,20,18-24,Female,Ahmedabad,21,2022-03-27,Kannada,Basic
+CUST00885,JioHotstar,34,25-34,Male,Lucknow,53,2019-08-10,Tamil,Standard
+CUST00886,SonyLiv,24,18-24,Female,Mumbai,47,2020-02-17,English,Premium
+CUST00887,ZEE5,26,25-34,Male,Delhi,25,2021-11-19,Marathi,Standard
+CUST00888,ZEE5,38,35-44,Male,Jaipur,38,2020-10-27,Malayalam,Premium
+CUST00889,Amazon Prime,36,35-44,Male,Mumbai,41,2020-08-19,Marathi,Family
+CUST00890,Netflix,41,35-44,Female,Pune,11,2023-01-30,English,Family
+CUST00891,JioHotstar,29,25-34,Female,Bangalore,25,2021-11-15,Bengali,Basic
+CUST00892,ZEE5,25,25-34,Male,Kolkata,52,2019-09-19,Malayalam,Premium
+CUST00893,Amazon Prime,28,25-34,Male,Kolkata,48,2020-01-05,Kannada,Standard
+CUST00894,Netflix,34,25-34,Female,Delhi,55,2019-05-28,Marathi,Premium
+CUST00895,SonyLiv,33,25-34,Female,Mumbai,50,2019-11-13,Hindi,Premium
+CUST00896,JioHotstar,51,45-54,Male,Bangalore,14,2022-10-20,English,Basic
+CUST00897,SonyLiv,37,35-44,Female,Ahmedabad,42,2020-07-11,Tamil,Standard
+CUST00898,JioHotstar,26,25-34,Non-Binary,Delhi,48,2019-12-24,English,Basic
+CUST00899,Amazon Prime,43,35-44,Female,Chennai,37,2020-12-11,Hindi,Premium
+CUST00900,Amazon Prime,19,18-24,Female,Ahmedabad,1,2023-11-08,English,Standard
+CUST00901,JioHotstar,45,45-54,Male,Ahmedabad,21,2022-03-28,Malayalam,Standard
+CUST00902,ZEE5,31,25-34,Male,Ahmedabad,31,2021-05-20,Tamil,Basic
+CUST00903,JioHotstar,18,18-24,Male,Lucknow,13,2022-11-21,Telugu,Basic
+CUST00904,JioHotstar,33,25-34,Male,Pune,59,2019-02-22,Tamil,Standard
+CUST00905,SonyLiv,35,35-44,Male,Mumbai,22,2022-03-12,Tamil,Standard
+CUST00906,Amazon Prime,40,35-44,Non-Binary,Delhi,2,2023-10-27,Malayalam,Standard
+CUST00907,Amazon Prime,26,25-34,Male,Bangalore,22,2022-02-11,Telugu,Premium
+CUST00908,JioHotstar,31,25-34,Male,Ahmedabad,32,2021-04-29,Bengali,Basic
+CUST00909,JioHotstar,33,25-34,Female,Kolkata,22,2022-02-15,Malayalam,Family
+CUST00910,Amazon Prime,18,18-24,Female,Chennai,54,2019-06-27,Kannada,Standard
+CUST00911,Netflix,31,25-34,Female,Jaipur,11,2023-01-15,Malayalam,Premium
+CUST00912,Amazon Prime,30,25-34,Male,Bangalore,22,2022-02-25,Kannada,Standard
+CUST00913,Netflix,38,35-44,Female,Bangalore,34,2021-02-18,English,Family
+CUST00914,SonyLiv,34,25-34,Male,Jaipur,5,2023-07-28,Gujarati,Standard
+CUST00915,Netflix,36,35-44,Female,Jaipur,2,2023-10-14,Hindi,Standard
+CUST00916,JioHotstar,20,18-24,Male,Kolkata,34,2021-02-27,Hindi,Premium
+CUST00917,Amazon Prime,18,18-24,Female,Pune,15,2022-09-23,Tamil,Standard
+CUST00918,Netflix,47,45-54,Female,Pune,9,2023-04-02,Bengali,Standard
+CUST00919,SonyLiv,41,35-44,Male,Lucknow,51,2019-10-18,Bengali,Premium
+CUST00920,Amazon Prime,18,18-24,Male,Chennai,57,2019-04-09,Tamil,Premium
+CUST00921,JioHotstar,27,25-34,Female,Chennai,6,2023-06-26,English,Premium
+CUST00922,Netflix,34,25-34,Male,Chennai,29,2021-07-19,Marathi,Basic
+CUST00923,ZEE5,24,18-24,Male,Mumbai,33,2021-04-01,Tamil,Basic
+CUST00924,Netflix,33,25-34,Male,Pune,3,2023-10-02,Hindi,Standard
+CUST00925,JioHotstar,18,18-24,Male,Kolkata,2,2023-10-14,Bengali,Family
+CUST00926,Amazon Prime,34,25-34,Male,Mumbai,20,2022-04-25,Marathi,Basic
+CUST00927,Amazon Prime,33,25-34,Female,Hyderabad,32,2021-04-19,Marathi,Premium
+CUST00928,JioHotstar,29,25-34,Male,Jaipur,59,2019-02-02,Tamil,Premium
+CUST00929,SonyLiv,32,25-34,Female,Pune,6,2023-06-18,Kannada,Premium
+CUST00930,JioHotstar,51,45-54,Male,Delhi,23,2022-02-04,Marathi,Standard
+CUST00931,JioHotstar,30,25-34,Female,Mumbai,55,2019-06-21,Gujarati,Premium
+CUST00932,SonyLiv,28,25-34,Male,Mumbai,21,2022-04-06,English,Basic
+CUST00933,Amazon Prime,30,25-34,Male,Kolkata,30,2021-07-08,Malayalam,Standard
+CUST00934,JioHotstar,35,35-44,Male,Lucknow,43,2020-06-10,Marathi,Family
+CUST00935,JioHotstar,28,25-34,Female,Delhi,32,2021-05-15,Kannada,Premium
+CUST00936,SonyLiv,18,18-24,Female,Jaipur,31,2021-06-05,English,Standard
+CUST00937,Netflix,31,25-34,Male,Bangalore,3,2023-09-12,Bengali,Standard
+CUST00938,ZEE5,30,25-34,Female,Mumbai,21,2022-03-23,Tamil,Basic
+CUST00939,ZEE5,24,18-24,Female,Ahmedabad,34,2021-02-19,Marathi,Premium
+CUST00940,Amazon Prime,45,45-54,Male,Kolkata,46,2020-03-11,Marathi,Standard
+CUST00941,ZEE5,36,35-44,Male,Kolkata,33,2021-03-29,English,Family
+CUST00942,SonyLiv,35,35-44,Male,Kolkata,40,2020-08-20,Gujarati,Basic
+CUST00943,Netflix,37,35-44,Female,Jaipur,59,2019-02-08,English,Basic
+CUST00944,SonyLiv,25,25-34,Male,Chennai,57,2019-04-12,Bengali,Standard
+CUST00945,JioHotstar,20,18-24,Male,Lucknow,54,2019-06-28,Gujarati,Premium
+CUST00946,Netflix,18,18-24,Female,Bangalore,53,2019-08-03,Hindi,Standard
+CUST00947,Amazon Prime,18,18-24,Male,Lucknow,48,2020-01-09,Gujarati,Family
+CUST00948,Netflix,41,35-44,Female,Kolkata,60,2019-01-06,Bengali,Standard
+CUST00949,Netflix,45,45-54,Female,Chennai,53,2019-08-12,Tamil,Premium
+CUST00950,JioHotstar,39,35-44,Female,Chennai,15,2022-10-07,Marathi,Basic
+CUST00951,Netflix,28,25-34,Male,Pune,56,2019-05-12,Gujarati,Family
+CUST00952,Netflix,24,18-24,Male,Pune,43,2020-05-25,Malayalam,Standard
+CUST00953,Netflix,36,35-44,Male,Pune,14,2022-10-09,Hindi,Premium
+CUST00954,SonyLiv,37,35-44,Female,Hyderabad,58,2019-03-17,Telugu,Basic
+CUST00955,JioHotstar,33,25-34,Female,Kolkata,56,2019-05-20,Malayalam,Basic
+CUST00956,Amazon Prime,18,18-24,Female,Pune,31,2021-06-02,Telugu,Basic
+CUST00957,Netflix,28,25-34,Female,Pune,54,2019-06-29,Gujarati,Standard
+CUST00958,Amazon Prime,18,18-24,Female,Chennai,15,2022-09-12,Marathi,Standard
+CUST00959,Netflix,29,25-34,Female,Mumbai,27,2021-09-27,Marathi,Standard
+CUST00960,Amazon Prime,30,25-34,Male,Lucknow,45,2020-04-21,Gujarati,Standard
+CUST00961,JioHotstar,53,45-54,Male,Jaipur,18,2022-06-28,Malayalam,Basic
+CUST00962,JioHotstar,22,18-24,Female,Bangalore,20,2022-04-21,Gujarati,Standard
+CUST00963,Netflix,21,18-24,Male,Ahmedabad,38,2020-10-25,Marathi,Premium
+CUST00964,Netflix,34,25-34,Male,Mumbai,33,2021-04-16,Tamil,Premium
+CUST00965,SonyLiv,25,25-34,Male,Pune,10,2023-02-27,Hindi,Basic
+CUST00966,SonyLiv,24,18-24,Female,Pune,52,2019-09-15,Bengali,Standard
+CUST00967,ZEE5,39,35-44,Male,Kolkata,26,2021-10-28,Hindi,Standard
+CUST00968,Amazon Prime,28,25-34,Male,Mumbai,16,2022-08-24,Malayalam,Basic
+CUST00969,Netflix,35,35-44,Male,Hyderabad,32,2021-04-24,Kannada,Premium
+CUST00970,Amazon Prime,22,18-24,Male,Jaipur,12,2022-12-28,Hindi,Family
+CUST00971,JioHotstar,51,45-54,Male,Hyderabad,20,2022-04-28,Marathi,Basic
+CUST00972,Amazon Prime,50,45-54,Non-Binary,Bangalore,57,2019-04-18,Kannada,Standard
+CUST00973,Netflix,31,25-34,Male,Bangalore,14,2022-10-30,Kannada,Standard
+CUST00974,Netflix,32,25-34,Male,Delhi,15,2022-09-10,Malayalam,Family
+CUST00975,ZEE5,29,25-34,Male,Jaipur,38,2020-11-05,Marathi,Standard
+CUST00976,SonyLiv,35,35-44,Male,Kolkata,23,2022-01-29,Gujarati,Standard
+CUST00977,ZEE5,29,25-34,Male,Bangalore,7,2023-05-15,Gujarati,Standard
+CUST00978,Amazon Prime,42,35-44,Female,Pune,28,2021-08-23,Kannada,Basic
+CUST00979,Amazon Prime,18,18-24,Male,Chennai,42,2020-06-30,Tamil,Standard
+CUST00980,ZEE5,18,18-24,Female,Bangalore,4,2023-08-19,Hindi,Standard
+CUST00981,Amazon Prime,35,35-44,Male,Lucknow,6,2023-06-17,Hindi,Standard
+CUST00982,Netflix,39,35-44,Female,Bangalore,5,2023-07-22,Malayalam,Standard
+CUST00983,JioHotstar,24,18-24,Female,Hyderabad,35,2021-01-24,Bengali,Basic
+CUST00984,JioHotstar,24,18-24,Male,Mumbai,41,2020-08-16,English,Basic
+CUST00985,Netflix,34,25-34,Female,Jaipur,50,2019-10-31,Bengali,Family
+CUST00986,Amazon Prime,39,35-44,Female,Ahmedabad,45,2020-03-24,Kannada,Premium
+CUST00987,Netflix,31,25-34,Female,Bangalore,18,2022-07-07,Kannada,Basic
+CUST00988,Amazon Prime,23,18-24,Female,Hyderabad,49,2019-12-07,Marathi,Premium
+CUST00989,JioHotstar,18,18-24,Male,Pune,37,2020-12-15,Telugu,Standard
+CUST00990,Netflix,36,35-44,Female,Delhi,33,2021-04-05,Kannada,Family
+CUST00991,SonyLiv,18,18-24,Female,Lucknow,18,2022-06-30,Kannada,Basic
+CUST00992,JioHotstar,27,25-34,Female,Pune,2,2023-10-30,Gujarati,Premium
+CUST00993,Amazon Prime,18,18-24,Male,Chennai,27,2021-09-27,Gujarati,Premium
+CUST00994,JioHotstar,38,35-44,Male,Kolkata,46,2020-02-26,Bengali,Standard
+CUST00995,Netflix,44,35-44,Male,Delhi,59,2019-02-19,Hindi,Family
+CUST00996,JioHotstar,29,25-34,Female,Ahmedabad,46,2020-03-04,Bengali,Premium
+CUST00997,ZEE5,26,25-34,Female,Delhi,12,2023-01-04,Tamil,Standard
+CUST00998,Amazon Prime,25,25-34,Female,Pune,15,2022-09-24,Tamil,Basic
+CUST00999,JioHotstar,27,25-34,Male,Hyderabad,44,2020-04-26,Marathi,Basic
+CUST01000,ZEE5,18,18-24,Female,Delhi,10,2023-03-03,English,Standard
